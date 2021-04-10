@@ -39,7 +39,6 @@ My newsletter will be a collection of short reviews of academic publications, a 
 I will try to publish a newsletter all 2 - 3 weeks. Depending on growth and feedback of my readers I will adapt the style and content. Each edition will be evaluated with a simple evaluation form.
 
 Enough talking: If you think this could add something to your overcrowded inbox, feel free to <a href="http://news.kalz.cc">subscribe here for the newsletter</a>. Alternatively, you can just use the menu-item above to subscribe.
-
 <script src="https://utteranc.es/client.js"
         repo="https://github.com/mkalz/mkalz-academic"
         issue-term="pathname"
