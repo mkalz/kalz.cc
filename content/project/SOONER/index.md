@@ -9,7 +9,7 @@ categories: [projects, research]
 date: 2021-04-10T21:50:37+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://sooner.nu"
+external_link: "http://sooner.nu"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
