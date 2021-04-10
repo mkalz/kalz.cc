@@ -4,8 +4,8 @@
 title: "ENTER_EdTech"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: [entrepreneurship, EdTech, startups]
+categories: [project, EU, R&D]
 date: 2021-04-10T23:25:23+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -39,3 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+**ENTER_EdTech: Entering the EdTech Entrepreneurship World (funded via Erasmus Plus by the European Commission), Januar 2021 – December 2024, Budget: 924 050 EUR (128.250 EUR acquired for own institution)**
+
+The project aim is to train aspiring EdTech-preneurs, start-up founders, spin-offs and small SMEs in enhancing their market knowledge, improving their business processes, becoming more competitive and improving the quality of their products and services.
