@@ -4,6 +4,15 @@ subtitle: How to use Twitter for research
 date: 2021-04-02T09:36:59.875Z
 draft: false
 featured: true
+tags:
+  - twitter
+  - services
+  - rstats
+categories:
+  - research
+  - tools
+  - twitter
+projects: []
 image:
   filename: featured.png
   focal_point: Smart
