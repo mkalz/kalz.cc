@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "SOONER"
-summary: ""
+summary: "Structuration of Open Online Education in the Netherlands"
 authors: []
 tags: [open education, MOOCs, scalability, intentions, SRL, innovation]
 categories: [projects, research]

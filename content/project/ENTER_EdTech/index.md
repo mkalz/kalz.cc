@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "ENTER_EdTech"
-summary: ""
+summary: "Entering the EdTech Entrepreneurship World"
 authors: []
 tags: [entrepreneurship, EdTech, startups]
 categories: [project, EU, R&D]
