@@ -4,8 +4,8 @@
 title: "SOONER"
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: [open education, MOOCs, scalability, intentions, SRL, innovation]
+categories: [projects, research]
 date: 2021-04-10T21:50:37+02:00
 
 # Optional external URL for project (replaces project detail page).
