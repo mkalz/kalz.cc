@@ -11,12 +11,7 @@ date: 2021-03-12T21:22:31+01:00
 doi: "https://doi.org/10.1080/02602938.2021.1893650"
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-
+# author_notes:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-12T21:22:31+01:00
@@ -37,7 +32,7 @@ abstract: "This study reports on the quantitative findings of an exploratory seq
 summary: ""
 
 tags: [peer feedback, feedback, factor analysis, scale, scalability]
-categories: [publications]
+categories: [publications, journal articles, ISI-journals]
 featured: true
 
 # Custom links (optional).
@@ -70,7 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [-SOONER]
+projects: [SOONER]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,3 +74,5 @@ projects: [-SOONER]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+Kasch, J., Van Rosmalen, P., Henderikx, M., & Kalz, M. (2021). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. *Assessment & Evaluation in Higher Education*, 1-14.

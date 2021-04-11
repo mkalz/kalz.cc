@@ -7,6 +7,7 @@ authors: []
 tags: [MOOCS, learning design]
 categories: [projects, EU, R&D]
 date: 2021-04-10T23:26:00+02:00
+featured: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
