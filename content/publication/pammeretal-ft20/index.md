@@ -24,7 +24,7 @@ date: 2020-04-11T13:28:01+02:00
 doi: "https://doi.org/10.3389/feduc.2020.00150"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2028-08-11T13:28:01+02:00
+publishDate: 2020-08-11T13:28:01+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -75,7 +75,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [DeTEL]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
