@@ -4,7 +4,7 @@
 title: "EMuRgency"
 summary: ""
 authors: []
-tags: []
+tags: [EU project]
 categories: []
 date: 2021-04-11T13:59:57+02:00
 

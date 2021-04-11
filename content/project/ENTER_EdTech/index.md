@@ -4,7 +4,7 @@
 title: "ENTER_EdTech"
 summary: "Entering the EdTech Entrepreneurship World"
 authors: []
-tags: [entrepreneurship, EdTech, startups]
+tags: [entrepreneurship, EdTech, startups, EU project]
 categories: [project, EU, R&D]
 date: 2021-04-10T23:25:23+02:00
 

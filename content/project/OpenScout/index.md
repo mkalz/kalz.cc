@@ -4,7 +4,7 @@
 title: "OpenScout"
 summary: ""
 authors: []
-tags: []
+tags: [EU projects]
 categories: []
 date: 2021-04-11T14:00:05+02:00
 

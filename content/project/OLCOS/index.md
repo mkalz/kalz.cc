@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Open eLearning Content Observatory Services"
-summary: ""
+title: "OLCOS"
+summary: "Open eLearning Content Observatory Services"
 authors: []
-tags: [open content, OER, open practices]
+tags: [open content, OER, open practices, EU project]
 categories: [projects, EU-funding]
 date: 2021-04-11T14:00:32+02:00
 

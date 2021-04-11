@@ -4,7 +4,7 @@
 title: "EMMA"
 summary: "European Multiple MOOC Aggregator"
 authors: []
-tags: [MOOCS, learning design]
+tags: [MOOCS, learning design, EU project]
 categories: [projects, EU, R&D]
 date: 2021-04-10T23:26:00+02:00
 featured: false

@@ -4,7 +4,7 @@
 title: "PhD Dirk Boerner"
 summary: ""
 authors: []
-tags: []
+tags: [PhD]
 categories: []
 date: 2021-04-11T13:58:17+02:00
 

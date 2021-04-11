@@ -4,7 +4,7 @@
 title: "PhD Bernardo Tabuenca"
 summary: ""
 authors: []
-tags: []
+tags: [PhD]
 categories: []
 date: 2021-04-11T13:58:28+02:00
 

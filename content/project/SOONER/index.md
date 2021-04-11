@@ -4,7 +4,7 @@
 title: "SOONER"
 summary: "Structuration of Open Online Education in the Netherlands"
 authors: []
-tags: [open education, MOOCs, scalability, intentions, SRL, innovation]
+tags: [open education, MOOCs, scalability, intentions, SRL, innovation, National project]
 categories: [projects, research]
 date: 2021-04-10T21:50:37+02:00
 
