@@ -5,9 +5,9 @@
 
 # Appearance
 
-theme: minimal
+theme: Ocean
 day_night: true
-font: ''
+font: 'minimal'
 font_size: L
 
 # SEO
@@ -59,7 +59,7 @@ contact_links:
 main_menu:
   enable: true
   align: l
-  show_logo: true
+  show_logo: false
   show_language: false
   show_day_night: true
   show_search: true
@@ -99,10 +99,10 @@ section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
-  enable: false
-  allow_derivatives: false
+  enable: true
+  allow_derivatives: true
   share_alike: true
-  allow_commercial: false
+  allow_commercial: true
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
