@@ -2,6 +2,8 @@
 title: Implications of the new Twitter Academic Research product track
 subtitle: How to use Twitter for research
 date: 2021-04-02T09:36:59.875Z
+authors:
+  - admin
 draft: false
 featured: true
 tags:

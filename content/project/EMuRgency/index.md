@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "EMuRgency"
-summary: ""
+summary: "New approaches for resuscitation support and training in the Euregio Meuse-Rhine"
 authors: []
 tags: [EU project]
 categories: []

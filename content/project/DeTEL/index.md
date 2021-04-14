@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "DeTEL"
-summary: ""
+summary: "Doctoral Education for Technology-Enhanced Learning"
 authors: []
 tags: [EU project]
 categories: []
@@ -39,3 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Doctoral Education for Technology-Enhanced Learning (DE-TEL) project will establish and deepen a strategic partnership for doctoral education in Technology-Enhanced Learning (TEL). DE-TEL brings together 9 internationally renowned universities and the [European Association of Technology-Enhanced Learning](https://ea-tel.eu/) to reflect their expertise in doctoral education into a new internationally validated program in TEL, extended with rich and professionally produced Open Educational Resources. The project grounds the design of the new program in the best practices in TEL doctoral education across Europe as well as institutional and national requirements.
+
+DE-TEL will create a new offer in an area of research that finds practical application across Europe as digitalisation of education is in an increasing demand to solve multiple challenges.
+
+Doctoral education in TEL aims to develop expertise in doctoral candidates, provide knowledge from multiple relevant perspectives and allows taking empirically-based decisions in implementing TEL solutions in practice. The goal of DE-TEL is to bring doctoral education in TEL to a new level with high-quality resources and a new internationally designed program to support better curricular integration and avoid fragmentation of the digitalisation agenda in Europe.

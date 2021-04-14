@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "OpenScout"
-summary: ""
+summary: "Skill based scouting of open user-generated and community-improved content for management education and trainin"
 authors: []
-tags: [EU projects]
+tags: [EU project]
 categories: []
 date: 2021-04-11T14:00:05+02:00
 
