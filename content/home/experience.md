@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Professor of Technology-Enhanced Learning
+  - title: Professor of Digital Education
     company: Heidelberg University of Education
     company_url: ''
     location: Heidelberg, Germany
@@ -40,7 +40,7 @@ experience:
     company_url: ''
     location: Hannover, Germany
     date_start: '2018-09-18'
-    date_end: ''
+    date_end: '2021-09-19'
     description: |2-
         Responsibilities include:
         
