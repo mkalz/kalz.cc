@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Dirk Boerner"
-summary: ""
+summary: "Ambient Learning Displays"
 authors: []
 tags: [PhD]
 categories: []
 date: 2021-04-11T13:58:17+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://research.ou.nl/en/publications/ambient-learning-displays"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
