@@ -6,7 +6,7 @@ title: Marco Kalz
 superuser: true
 
 # Role/position/tagline
-role: Professor of Technology-Enhanced Learning and Open Education
+role: Professor of Digital Education and Open Education
 
 # Organizations/Affiliations to show in About widget
 organizations:
