@@ -4,7 +4,7 @@
 title: "EMMA"
 summary: "European Multiple MOOC Aggregator"
 authors: []
-tags: [MOOCS, learning design, EU project]
+tags: [MOOCS, learning design, cross-language, NLP, EU project]
 categories: [projects, EU, R&D]
 date: 2021-04-10T23:26:00+02:00
 featured: false
@@ -41,6 +41,6 @@ url_video: ""
 slides: ""
 ---
 
-**EMMA: European Multiple MOOC Aggregator (funded via Policy Support Program by the European Commission), February 2014 – August 2016, Budget: 4,95 Mio EUR (191.000 EUR acquired for own institution) [http://www.europeanmoocs.eu](http://www.europeanmoocs.eu/)**
+**EMMA: European Multiple MOOC Aggregator (funded via Policy Support Program by the European Commission), February 2014 – August 2016, Budget: 4,95 Mio EUR (191.000 EUR acquired for own institution, Role: partner) [http://www.europeanmoocs.eu](http://www.europeanmoocs.eu/)**
 
 EMMA stands for European Multiple MOOC Aggregator. EMMA combines and refines a series of existing components to pilot a web-learning environment where users can access multi-media courseware, translation services, personal learning environments and learning communities. The EMMA platform enables users to access MOOCs in a new, customised way, harvesting content from different courses in their own language. The project seeks to redress the balance between learning communities and individual learning, enabling EMMA users to create their own paths by selecting and integrating different learning objects from other courses along with authoritative resources on the web.
