@@ -8,7 +8,7 @@ authors:
 - Slavi Stoyanov
 - Scott Rosas
 - admin
-date: 2020-09-19T11:02:28+02:00
+date: 2020-10-23T11:02:28+02:00
 doi: "https://doi.org/10.1007/s12528-020-09264-w"
 
 # Schedule page publish date (NOT publication's date).
@@ -73,4 +73,4 @@ projects: [SOONER, PhD-Martine-Schophuizen]
 slides: ""
 ---
 
-Schophuizen, M., Kreijns, K., Stoyanov, S., Rosas, S., & Kalz, M. (2020). Does project focus influence challenges and opportunities of open online education? A sub-group analysis of group-concept mapping data. *Journal of Computing in Higher Education*, 1-26.
+Schophuizen, M., Kreijns, K., Stoyanov, S., Rosas, S., & Kalz, M. (2020). Does project focus influence challenges and opportunities of open online education? A sub-group analysis of group-concept mapping data. *Journal of Computing in Higher Education*, *33*, 255-280. https://doi.org/10.1007/s12528-020-09264-w
