@@ -6,7 +6,7 @@ summary: "Through the Lens of the Learner: Using Learning Analytics to Predict L
 authors: [Eyal Rabin]
 tags: [PhD]
 categories: []
-date: 2021-00-10T13:57:31+02:00
+date: 2021-09-10T13:57:31+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
