@@ -6,7 +6,7 @@ authors:
 - Julia Kasch
 - Peter van Rosmalen
 - admin
-date: 2021-04-11T10:53:43+02:00
+date: 2020-11-03T10:53:43+02:00
 doi: "https://doi.org/10.1016/j.compedu.2020.104054"
 
 # Schedule page publish date (NOT publication's date).
@@ -71,4 +71,4 @@ projects: [SOONER, PhD-Julia-Kasch]
 slides: ""
 ---
 
-Kasch, J., Van Rosmalen, P., & Kalz, M. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. *Computers & Education*, *161*, 104054.
+Kasch, J., Van Rosmalen, P., & Kalz, M. (2021). Educational scalability in MOOCs: Analysing instructional designs to find best practices. *Computers & Education*, *161*, 104054.1-12. https://doi.org/10.1016/j.compedu.2020.104054

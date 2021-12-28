@@ -75,4 +75,4 @@ projects: [SOONER, PhD-Julia-Kasch]
 slides: ""
 ---
 
-Kasch, J., Van Rosmalen, P., Henderikx, M., & Kalz, M. (2021). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. *Assessment & Evaluation in Higher Education*, 1-14.
+Kasch, J., Van Rosmalen, P., Henderikx, M., & Kalz, M. (2021). The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer-feedback dispositions. *Assessment & Evaluation in Higher Education*, 1-14. https://doi.org/10.1080/02602938.2021.1893650

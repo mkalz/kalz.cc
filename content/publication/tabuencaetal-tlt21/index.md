@@ -7,7 +7,7 @@ authors:
 - Bernardo Tabuenca
 - Dirk Börner
 - admin
-date: 2021-04-11T10:42:47+02:00
+date: 2021-02-01T10:42:47+02:00
 doi: "https://doi.org/10.1109/TLT.2021.3056038"
 
 # Schedule page publish date (NOT publication's date).
@@ -72,4 +72,4 @@ projects: []
 slides: ""
 ---
 
-Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an ambient learning display on noise levels and perceived learning in a secondary school. *IEEE Transactions on Learning Technologies*.
+Tabuenca, B., Börner, D., & Kalz, M. (2021). Effects of an ambient learning display on noise levels and perceived learning in a secondary school. *IEEE Transactions on Learning Technologies*. *14*(1). 69-80.
