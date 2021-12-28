@@ -70,4 +70,4 @@ projects: []
 slides: ""
 ---
 
-Weidlich, J., & Kalz, M. (2021). Exploring predictors of instructional resilience during emergency remote teaching in higher education. *International Journal of Educational Technology in Higher Education*, *18*(43), 1-26. https://doi.org/10.1186/s41239-021-00278-7"
+Weidlich, J., & Kalz, M. (2021). Exploring predictors of instructional resilience during emergency remote teaching in higher education. *International Journal of Educational Technology in Higher Education*, *18*(43), 1-26. https://doi.org/10.1186/s41239-021-00278-7
