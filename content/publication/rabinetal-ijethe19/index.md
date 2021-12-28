@@ -27,7 +27,7 @@ abstract: "This research revealed the antecedes of two learner-centered outcome 
 summary: ""
 
 tags: [MOOC, Perceived learning outcomes, Structural equation modeling, Student satisfaction, Intention-fulfilment, Learning analytics, Educational data mining]
-categories: [publications, journal articles, ISI-journals],
+categories: [publications, journal articles, ISI-journals]
 featured: false
 
 # Custom links (optional).
