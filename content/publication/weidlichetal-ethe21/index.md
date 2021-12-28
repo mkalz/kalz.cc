@@ -5,7 +5,7 @@ title: "Exploring predictors of instructional resilience during emergency remote
 authors:
 - Joshua Weidlich
 - admin
-date: 2020-08-09T13:39:39+02:00
+date: 2021-08-09T13:39:39+02:00
 doi: "https://doi.org/10.1186/s41239-021-00278-7"
 
 # Schedule page publish date (NOT publication's date).
