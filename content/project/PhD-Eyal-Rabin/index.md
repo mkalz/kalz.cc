@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Eyal Rabin"
-summary: ""
-authors: []
+summary: "Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses"
+authors: [Eyal Rabin]
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:57:31+02:00
+date: 2021-00-10T13:57:31+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
