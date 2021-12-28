@@ -11,7 +11,7 @@ date: 2020-10-20T13:39:39+02:00
 doi: "http://doi.org/10.5944/openpraxis.13.2.124"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-08-09T13:39:39+02:00
+publishDate: 2021-08-09T13:39:39+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
