@@ -4,8 +4,8 @@
 title: "EMuRgency"
 summary: "New approaches for resuscitation support and training in the Euregio Meuse-Rhine"
 authors: []
-tags: [EU project]
-categories: []
+tags: [cardiac arrest, CPR, game-based learning, OER, ambient displays, EU project]
+categories: [projects, research]
 date: 2021-04-11T13:59:57+02:00
 
 # Optional external URL for project (replaces project detail page).
