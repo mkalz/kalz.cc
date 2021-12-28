@@ -85,4 +85,4 @@ projects: [DeTEL]
 slides: ""
 ---
 
-Pammer-Schindler, V., Wild, F., Fominykh, M., Ley, T., Perifanou, M., Soule, M. V., ... & Maillet, K. (2020, August). Interdisciplinary Doctoral Training in Technology-Enhanced Learning in Europe. In *Frontiers in Education* (Vol. 5, p. 150). Frontiers.
+Pammer-Schindler, V., Wild, F., Fominykh, M., Ley, T., Perifanou, M., Soule, M. V., ... & Maillet, K. (2020). Interdisciplinary Doctoral Training in Technology-Enhanced Learning in Europe. *Frontiers in Education*. *5*(150). 1-12. https://doi.org/10.3389/feduc.2020.00150
