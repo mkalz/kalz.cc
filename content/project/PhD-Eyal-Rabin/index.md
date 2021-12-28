@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+External PhD-candidate at the UNESCO chair on open education at the Open University of the Netherlands
+Promotor:  Marco Kalz
+Co-promotor: Yoram Kalman (Open University of Israel)
