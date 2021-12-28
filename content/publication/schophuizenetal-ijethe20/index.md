@@ -69,4 +69,4 @@ projects: [SOONER, PhD-Martine-Schophuizen]
 slides: ""
 ---
 
-Schophuizen, M., & Kalz, M. (2020). Educational innovation projects in Dutch higher education: bottom-up contextual coping to deal with organizational challenges. *International Journal of Educational Technology in Higher Education*, *17*(1), 1-17. https://doi.org/10.1186/s41239-020-00197-z
+Schophuizen, M., & Kalz, M. (2020). Educational innovation projects in Dutch higher education: bottom-up contextual coping to deal with organizational challenges. *International Journal of Educational Technology in Higher Education*, *17*(36), 1-17. https://doi.org/10.1186/s41239-020-00197-z
