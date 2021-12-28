@@ -26,7 +26,7 @@ abstract: "In 2020, Higher Education institutions were pressed to swiftly implem
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [emergency remote teachin, resilience, higher education, Covid-19, teaching quality]
+tags: [emergency remote teaching, resilience, higher education, Covid-19, teaching quality]
 categories: [publications, journal articles, ISI-journals]
 featured: True
 
