@@ -70,4 +70,4 @@ projects: [SOONER, PHD-Maartje-Henderikx]
 slides: ""
 ---
 
-Henderikx, M. A., Kreijns, K., & Kalz, M. (2017). Refining success and dropout in massive open online courses based on the intention–behavior gap. *Distance Education*, *38*(3), 353-368. https://doi.org/10.1080/01587919.2017.1369006"
+Henderikx, M. A., Kreijns, K., & Kalz, M. (2017). Refining success and dropout in massive open online courses based on the intention–behavior gap. *Distance Education*, *38*(3), 353-368. https://doi.org/10.1080/01587919.2017.1369006
