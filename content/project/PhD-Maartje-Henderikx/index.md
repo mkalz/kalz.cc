@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Maartje Henderikx"
-summary: ""
-authors: []
+summary: "Mind the Gap. Unravelling learner success and behaviour in Massive Open Online Courses"
+authors: [Maartje Henderikx]
 tags: [PhD]
 categories: []
 date: 2021-04-11T13:58:03+02:00
@@ -39,3 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Title of the thesis: Mind the Gap. Unravelling learner success and behaviour in Massive Open Online Courses
+- Defense date: 6. September 2019
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marco Kalz, Co-Promotor: Karel Kreijns
+- Members of the assessment commmittee:
+  - Prof. dr. M. Brown, Dublin City University
+  - Prof. dr. M. Kerres, University of Duisburg-Essen
+  - Prof. dr. B. Wasson, University of Bergen
+  - Prof. dr. F.L.J.M. Brand-Gruwel, Open Universiteit
