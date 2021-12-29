@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Bernardo Tabuenca"
-summary: ""
-authors: []
+summary: "Ubiquitous technology for lifelong learners"
+authors: [Bernardo Tabuenca]
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:58:28+02:00
+date: 2015-07-10T13:58:28+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Title of the thesis: Ubiquitous technology for lifelong learners
+- Defense date: 10. July 2015
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marcus Specht , Co-Promotores: Marco Kalz, Stefaan Ternier
+- Members of the assessment commmittee:
+  - Prof. dr. Carlos Delgado-Kloos, Universidad Carlos III de Madrid
+  - Prof. dr. A. Kukulska-Hulme, Open University
+  - Prof. dr. H.P.A. Boshuizen, Open Universiteit
+  - Prof. dr. P.B. Sloep, Open Universiteit
