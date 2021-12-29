@@ -39,6 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
 - Title of the thesis: Ubiquitous technology for lifelong learners
 - Defense date: 10. July 2015
 - Awarding institution: Open University of the Netherlands
