@@ -9,11 +9,11 @@ authors:
 - Wim Waterink
 - Jannes Eshuis
 - Rob Koper
-date: 2015-12-03T11:02:28+02:00
+date: 2014-12-03T11:02:28+02:00
 doi: "https://www.jstor.org/stable/jeductechsoci.17.3.54"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2015-12-03T11:02:28+02:00
+publishDate: 2014-12-03T11:02:28+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
