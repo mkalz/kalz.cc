@@ -1,14 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Implementing infrastructures for managing learning objects"
+title: "Positioning of Learners in Learning Networks with Content, Metadata and Ontologies"
 authors:
-- Roland Klemke
-- Stefaan Ternier
 - admin
-- Marcus Specht
-date: 2010-10-13T11:02:28+02:00
-doi: "https://doi.org/10.1111/j.1467-8535.2010.01127.x"
+- Jan van Bruggen
+- Ellen Rusman
+- Bas Giesbers
+- Rob Koper
+date: 2008-05-30T11:02:28+02:00
+doi: "https://doi.org/10.1080/10494820701424585"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2014-12-03T11:02:28+02:00
@@ -20,16 +21,15 @@ publishDate: 2014-12-03T11:02:28+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Educational Technology"
+publication: "Interactive Learning Environments"
 publication_short: ""
 
-abstract: "Making learning objects available is critical to reuse learning resources. Making
- content transparently available and providing added value to different stakeholders is among the goals of the European Commission's eContentPlus programme. This article analyses standards and protocols relevant for making learning objects accessible in distributed data provider networks. Types of metadata associated with learning objects and methods for metadata generation are discussed. Experiences from European projects highlight problems in implementing infrastructures and mapping metadata types into common application profiles. The use of learning contents and its associated metadata in different scenarios is described and concluded with lessons learned and pitfalls to avoid."
+abstract: "Positioning in learning networks is a process that assists learners in finding a starting point and an efficient route through the network that will foster competence building. In the past we explored computational approaches to positioning that are based on the contents of the learning network and the behavior of those participating in it, more or less ignoring different efforts to stimulate positioning and competence development from a top-down-perspective. In this paper we introduce a research agenda for positioning in learning networks, discuss several cases and give an outlook on the development of a positioning service for learning networks."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [learning objects, metadata, LOM, application profiles, repositories, OER, open educational resources]
+tags: [Positioning, Learning Networks, Prior Learning Assessment, Latent Semantic Analysis, Metadata, Ontologies]
 categories: [publications, journal articles, ISI-journals]
 featured: false
 
@@ -73,4 +73,4 @@ projects: []
 slides: ""
 ---
 
-Klemke, R., Ternier, S., Kalz, M., & Specht, M. (2010). Implementing infrastructures for managing learning objects. *British Journal of Educational Technology*, *41*(6), 873-882. https://doi.org/10.1111/j.1467-8535.2010.01127.x
+Kalz, M., Van Bruggen, J., Rusman, E., Giesbers, B., & Koper, R. (2007). Positioning of Learners in Learning Networks with Content, Metadata and Ontologies. *Interactive Learning Environments*, *15*(2), 191-200. https://doi.org/10.1080/10494820701424585
