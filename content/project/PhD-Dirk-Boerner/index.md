@@ -3,13 +3,13 @@
 
 title: "PhD Dirk Boerner"
 summary: "Ambient Learning Displays"
-authors: []
+authors: [Dirk Börner]
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:58:17+02:00
+date: 2013-11-15T13:58:17+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://research.ou.nl/en/publications/ambient-learning-displays"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+- Title of the thesis: Ambient Learning Displays
+- Defense date: 15. November 2013
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marcus Specht Co-Promotor:  Marco Kalz
+- Members of the assessment commmittee:
+  - Prof. dr. E. Duval, KU Leuven
+  - Prof. dr. M. Milrad, Linnaeus University
+  - Prof. dr. L. Kester, Open Universiteit
+  - Prof. dr. G.G. van der Veer, Open Universiteit

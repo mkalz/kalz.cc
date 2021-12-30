@@ -39,6 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-- External PhD-candidate at the UNESCO chair on open education at the Open University of the Netherlands
-- Promotor:  Marco Kalz
-- Co-promotor: Yoram Kalman (Open University of Israel)
+
+- Title of the thesis: Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses
+- Defense date: 6. September 2019
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marco Kalz, Co-Promotor: Yoram Kalman (Open University of Israel)
+- Members of the assessment commmittee:
+  - Prof. dr. C. Delgado-Kloos, U3CM
+  - Prof. dr. Y. Eshet, Open University of Israel
+  - Prof. dr. M. Scheffel, Ruhr-Universität Bochum
+  - Prof. dr. R. Klemke, Open Universiteit

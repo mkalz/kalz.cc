@@ -1,16 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Setting-up a European Cross-Provider Data Collection on Open Online Courses"
+title: "It Doesn’t Matter, But: Examining the impact of ambient learning displays on energy consumption and conservation at the workplace"
 authors:
+- Dirk Börner
 - admin
-- Karel Kreijns
-- Jaap Walhout
-- Jonatan Castaño-Munoz
-- Anna Espasa
-- Edmundo Tovar
+- Marcus Specht
 date: 2015-12-03T11:02:28+02:00
-doi: "https://doi.org/10.19173/irrodl.v16i6.2150"
+doi: "https://doi.org/10.1080/13504622.2014.921804"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2015-12-03T11:02:28+02:00
@@ -22,14 +19,14 @@ publishDate: 2015-12-03T11:02:28+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The International Review of Research in Open and Distributed Learning"
+publication: "Environmental Education Research"
 publication_short: ""
 
-abstract: "While MOOCS have emerged as a new form of open online education around the world, research is stilling lagging behind to come up with a sound theoretical basis that can cover the impact of socio-economic background variables, ICT competences, prior experiences and lifelong learning profile, variance in intentions, environmental influences, outcome expectations, learning experience and economic return on taking and completing Massive Open Online Courses (MOOCs). The potential diversity of participants of MOOCs has been taken as a starting point to develop a theoretical model and survey instrument with the goal to establish a large-scale, cross-provider data collection of participants of (European) MOOCs. This article provides and overview of the theoretical model begin the project and reflects about first experiences with the cross-provider data collection."
+abstract: "This study reports an intervention to initiate environmental learning and facilitate pro-environmental behaviour. The purpose was to examine the impact of ambient learning displays on energy consumption and conservation at the workplace, more specifically the evaluation of learning outcome and behaviour change. Using a quasi-experimental design, the empirical study was conducted among employees working at a university campus. For the experimental treatments ambient learning display prototypes were varied on two design dimensions, namely representational fidelity and notification level. The results do not provide clear evidence that the design of the displays influences learning outcome or that the displays lead to pro-environmental behaviour change. Nevertheless the sole deployment of the display prototypes eased the comprehension of the information provided and lowered the need for additional information. Thus ambient learning displays provide a promising framework in the context of environmental learning and beyond."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [distance education, open learning, MOOCs, survey development]
+tags: [Ambient learning displays; Empirical study, Energy conservation, Environmental learning, Pro-environmental behaviour]
 categories: [publications, journal articles, ISI-journals]
 featured: false
 
@@ -63,7 +60,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [PhD-Dirk-Börner]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,4 +70,4 @@ projects: []
 slides: ""
 ---
 
-Kalz, M., Kreijns, K., Walhout, J., Castaño-Munoz, J., Espasa, A., & Tovar, E. (2015). Setting-up a European cross-provider data collection on open online courses. *International Review of Research in Open and Distributed Learning*, *16*(6), 62-77. https://doi.org/10.19173/irrodl.v16i6.2150
+Börner, D., Kalz, M., & Specht, M. (2015). It doesn’t matter, but: examining the impact of ambient learning displays on energy consumption and conservation at the workplace. *Environmental Education Research*, *21*(6), 899-915. https://doi.org/10.1080/13504622.2014.921804

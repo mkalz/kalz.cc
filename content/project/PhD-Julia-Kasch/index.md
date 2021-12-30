@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Julia Kasch"
-summary: ""
-authors: []
+summary: "Scaling the Unscalable? Interaction and Support in Open Online Education"
+authors: [Julia Kasch]
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:51:01+02:00
+date: 2020-10-09T13:51:01+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,14 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+- Title of the thesis: Scaling the Unscalable? Interaction and Support in Open Online Education
+- Defense date: 9. October 2020
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marco Kalz, Co-Promotor: Peter van Rosmalen (University of Maastricht)
+- Members of the assessment commmittee:
+  - Prof. Dr. D. Whitelock, Open University
+  - Prof. Dr. O. Zawacki-Richter, Oldenburg University
+  - Prof. Dr. S. Narciss, Technical University Dresden
+  - Prof. Dr. B. Joosten-ten-Brinke, Open Universiteit
+  - Dr. Kim Dirckx, Open Universiteit
