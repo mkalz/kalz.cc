@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Media and Learning21"
-event: Managing and innovating video-based services in Higher Education
-event_url: https://media-and-learning.eu/event/media-learning-online/
-location: Online
+title: "Open Education in transition. Social movement or evidence-based research domain?"
+event: "Open Science Kitchen of the University of Twente" 
+event_url: "https://www.openscience-twente.com/activities/"
+location:
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: This one day Media & Learning Online Conference will take place on Thursday 6 May and is aimed at everyone interested in enhancing teaching and learning in higher education with the support of media. 
-abstract:
+summary: 
+abstract: "The field of open education has its roots in distance education and has developed over the years specific types of activities namely the publication of Open Educational Resources (OER) and the development of massive open online courses (MOOCs). While more and more higher education institutions are opening up their educational offer for learners outside of the institution, organisational implications of these activities are not well researched. In this talk I will provide an overview about the challenges and opportunities of open education and I will build a connection to related fields like open access and open science."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-06T09:00:00+02:00
-date_end: 2021-05-06T18:00:00+02:00
-all_day: true
+date: 2022-01-27T14:00:00+01:00
+date_end: 2022-01-27T15:00:00+01:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-04-11T00:18:04+02:00
+publishDate: 2021-03-12T20:35:27+01:00
 
 authors: []
-tags: [events, resilience]
+tags: [open education, open educational resources, OER, social movements, epistemic community]
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -47,6 +47,7 @@ image:
 
 # Optional filename of your slides within your event's folder or a URL.
 url_slides:
+
 url_code:
 url_pdf:
 url_video:
