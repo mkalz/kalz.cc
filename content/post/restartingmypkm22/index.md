@@ -39,7 +39,7 @@ The nice functionality is now that I can color-code text in the PDF and the put 
 {{< figure src="textref.png" caption="Putting a ref into Logseq" >}}
 4. *Zotero integration*: Recently, Zotero has been integrated into Logseq and via this integration I can save publications via a browser-plugin and then access the files via Logseq and can follow the same approach like mentioned in 3.
 
-If you want to start diving into Logseq I can recommend the video series below by Dario from [OneStutteringMind] (https://www.onestutteringmind.com).
+If you want to start diving into Logseq I can recommend the video series below by Dario from [OneStutteringMind](https://www.onestutteringmind.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBtKHwFBn0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
