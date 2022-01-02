@@ -23,7 +23,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The break and transition into the new year is always a time for me to optimise my workflows or to explore some changes in the way I handle information, tasks or communication. Via some tweets by [Doug Holton](https://twitter.com/edtechdev) I have discovered [Logseq](https://logseq.com) as a new framework and tool to handle my information workflow. I have experimented with it in the last days and would like to summarise why I think this could become a game change for my personal knowledge management.
+The break and transition into the new year is always a time for me to optimise my workflows or to explore some changes in the way I handle information, tasks or communication. Via some tweets by [Doug Holton](https://twitter.com/edtechdev) I have discovered [Logseq](https://logseq.com) as a new framework and tool to handle my information workflow. I have experimented with it in the last days and would like to summarise why I think this could become a game changer for my personal knowledge management.
 
 **Usage scenario of Logseq for my personal knowledge management**
 
@@ -42,6 +42,7 @@ The nice functionality is now that I can color-code text in the PDF and the put 
 If you want to start diving into Logseq I can recommend the video series below by Dario from [OneStutteringMind](https://www.onestutteringmind.com).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBtKHwFBn0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 **Future development**
