@@ -35,7 +35,7 @@ The break and transition into the new year is always a time for me to optimise m
 {{< figure src="embed.png" caption="Chose a PDF to upload" >}}
 {{< figure src="sidebyside.png" caption="PDF reader left, Logseq right" >}}
 The nice functionality is now that I can color-code text in the PDF and the put a reference to it in Logseq and can again indent and add notes and ideas to it.
-{{< figure src="color.png" caption="Marking text >}}
+{{< figure src="color.png" caption="Marking text" >}}
 {{< figure src="textref.png" caption="Putting a ref into Logseq" >}}
 4. *Zotero integration*: Recently, Zotero has been integrated into Logseq and via this integration I can save publications via a browser-plugin and then access the files via Logseq and can follow the same approach like mentioned in 3.
 
