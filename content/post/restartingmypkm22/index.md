@@ -33,10 +33,10 @@ The break and transition into the new year is always a time for me to optimise m
 {{< figure src="tweetembed.png" caption="Embedded tweet in Logseq" >}}
 3. *PDF reader and annotation*: For someone who is reading a lot of documents in PDF-format, each productivity solution needs to offer a way how PDFs can be read and snippets from these documents can be quoted, copied or commented. In Logseq it is easy to upload a PDF (figure on the left) which is then opened on the left half of the window while on the right side (figure on the right).
 {{< figure src="embed.png" caption="Chose a PDF to upload" >}}
-{{< figure src="sidebyside.png" caption="PDF reader left, Logseq right >}}
+{{< figure src="sidebyside.png" caption="PDF reader left, Logseq right" >}}
 The nice functionality is now that I can color-code text in the PDF and the put a reference to it in Logseq and can again indent and add notes and ideas to it.
-{{< figure src="color.png" caption="Chose a PDF to upload" >}}
-{{< figure src="textref.png" caption="PDF reader left,Logseq right" >}}
+{{< figure src="color.png" caption="Marking text >}}
+{{< figure src="textref.png" caption="Putting a ref into Logseq" >}}
 4. *Zotero integration*: Recently, Zotero has been integrated into Logseq and via this integration I can save publications via a browser-plugin and then access the files via Logseq and can follow the same approach like mentioned in 3.
 
 If you want to start diving into Logseq I can recommend the video series below by Dario from [OneStutteringMind] (https://www.onestutteringmind.com).
