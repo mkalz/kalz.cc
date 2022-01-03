@@ -3,7 +3,7 @@
 
 title: "Didaktische und ethische Implikationen von KI in Schule und Unterricht"
 event: "digi@school: Schule im digitalen Wandel " 
-event_url: ""
+event_url: "https://www.digiatschool.de/keynotes"
 location:
 address:
   street:
