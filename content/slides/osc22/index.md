@@ -27,7 +27,11 @@ slides:
 - The world of open
 - Social movement
 - Research directions
-- Frictions of open educatio
+- Frictions of open education
+- The world of open
+- Social movement
+- Research directions
+- Frictions of open education
 
 ---
 
