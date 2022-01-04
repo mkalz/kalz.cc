@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: Open Education in transition. Social movement or evidence-based research domain?
+title: Open Education in transition. Social movement or evidence-based research domain?
+summary: Invited presentation Open Science Community University of Twente
 authors: [-admin]
 tags: [open education, social movement, OER, MOOCs, activism, advocacy, research, openness]
 categories: [presentation, slides, invited talk]
@@ -14,13 +14,12 @@ slides:
   
 ---
 
-# Create slides in Markdown with Wowchemy
+# Open Education in transition. Social movement or evidence-based research domain?
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Features
+## Outline
 
 - Efficiently write slides in Markdown
 - 3-in-1: Create, Present, and Publish your slides
