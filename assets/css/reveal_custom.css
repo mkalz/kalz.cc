@@ -1,11 +1,11 @@
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
 body:after {
     content: url(../../images/tn.png);
     position: fixed;
     bottom: 3.5em;
     left: 3.5em;
     box-shadow: 5px 5px 10px #0; }
+.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
