@@ -1,3 +1,7 @@
-{{< slide background-image="/media/boards.jpg" >}}
-{{< slide background-color="#0000FF" >}}
-{{< slide class="my-style" >}}
+body {
+    background-image: url('theme_images/corner.svg'), url('theme_images/sysart.svg');
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    background-size: auto 30%, 20% 20%;
+    }
+  
