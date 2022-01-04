@@ -61,5 +61,12 @@
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides )) }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
 
+  body {
+    background-image: url(../img/image.svg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
+}
+
 </body>
 </html>
