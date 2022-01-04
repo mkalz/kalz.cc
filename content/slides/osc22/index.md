@@ -22,14 +22,16 @@ slides:
 
 ## Outline
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- Open Education between formal and non-formal learning
+- Two worlds of open education
+- The world of open
+- Social movement
+- Research directions
+- Frictions of open educatio
 
 ---
 
-## Controls
+## Open education: Lost in context
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
