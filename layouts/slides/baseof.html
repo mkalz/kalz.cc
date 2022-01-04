@@ -37,14 +37,13 @@
 </head>
 <body>
 
-    {
-        background-image: url(../boards.jpg);
-        background-size: 20%;
-        background-repeat: no-repeat;
-        background-position: 3% 96%;
-    }
-
   {{ block "main" . }}{{ end }}
+  body {
+    background-image: url(../boards.jpg);
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position: 3% 96%;
+}
 
   <script src="{{ $cdn_url_reveal }}/dist/reveal.min.js" crossorigin="anonymous"></script>
   <script src="{{ $cdn_url_reveal }}/plugin/markdown/markdown.min.js" crossorigin="anonymous"></script>
