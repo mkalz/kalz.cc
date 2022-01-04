@@ -61,29 +61,31 @@
   {{ $slidejs := resources.Get "js/wowchemy-slides.js" | js.Build (dict "params" (dict "slides" $.Params.slides )) }}
   <script src="{{ $slidejs.RelPermalink }}"></script>
 
-<style type="text/css">
-  /* 1. Style header/footer <div> so they are positioned as desired. */
-  #header-left {
-      position: absolute;
-      top: 0%;
-      left: 0%;
-  }
-  #header-right {
-      position: absolute;
-      top: 0%;
-      right: 0%;
-  }
-  #footer-left {
-      position: absolute;
-margin-bottom: 5px;
-      bottom: 0%;
-      left: 0%;
-  }
+  <style type="text/css">
+    /* 1. Style header/footer <div> so they are positioned as desired. */
+    #header-left {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+    }
+    #header-right {
+        position: absolute;
+        top: 0%;
+        right: 0%;
+    }
+    #footer-left {
+        position: absolute;
+        bottom: 0%;
+        left: 0%;
+    }
 </style>
+
 <!-- 2. Create hidden header/footer <div> -->
-  <div id="hidden" style="display:none;">
+<div id="hidden" style="display:none;">
     <div id="header">
-        <div id="footer-left"><img src="images/tn.png" /></div>
+        <div id="header-left">HEADER-LEFT</div>
+        <div id="header-right">HEADER-RIGHT</div>
+        <div id="footer-left">FOOTER-LEFT</div>
     </div>
 </div>
 
@@ -100,7 +102,5 @@ margin-bottom: 5px;
         $('div.reveal').append(header);
    }
 </script>
-
-
 </body>
 </html>
