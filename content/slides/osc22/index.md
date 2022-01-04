@@ -3,7 +3,7 @@ title: Slides
 summary: Open Education in transition. Social movement or evidence-based research domain?
 authors: [-admin]
 tags: [open education, social movement, OER, MOOCs, activism, advocacy, research, openness]
-categories: []
+categories: [presentation, slides, invited talk]
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
