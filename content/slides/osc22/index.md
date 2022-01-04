@@ -1,8 +1,8 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
+summary: Open Education in transition. Social movement or evidence-based research domain?
+authors: [-admin]
+tags: [open education, social movement, OER, MOOCs, activism, advocacy, research, openness]
 categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
@@ -11,6 +11,7 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: github
+  
 ---
 
 # Create slides in Markdown with Wowchemy
