@@ -1,9 +1,3 @@
 {{< slide background-image="/media/boards.jpg" >}}
 {{< slide background-color="#0000FF" >}}
 {{< slide class="my-style" >}}
-
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
