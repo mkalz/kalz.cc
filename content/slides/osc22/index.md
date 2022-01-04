@@ -14,8 +14,9 @@ slides:
   
 ---
 
-# Open Education in transition
-## Social movement or evidence-based research domain?
+## Open Education in transition
+### Social movement or evidence-based research domain?
+### Open Science Kitchen, University of Twente, 28.01.2022
 
 
 ---
