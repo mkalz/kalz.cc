@@ -14,7 +14,7 @@ slides:
   
 ---
 
-# Open Education in transition. 
+# Open Education in transition
 ## Social movement or evidence-based research domain?
 
 
