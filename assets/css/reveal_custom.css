@@ -1,9 +1,7 @@
-body {
-    background-image: url(../img/tn-png);
-    background-size: 20%;
-    background-repeat: no-repeat;
-    background-position: 3% 96%;
-}
+{{< slide background-image="/media/logo.png" >}}
+{{< slide background-color="#0000FF" >}}
+{{< slide class="my-style" >}}
+
 .reveal section h1,
 .reveal section h2,
 .reveal section h3 {
