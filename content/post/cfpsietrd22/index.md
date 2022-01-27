@@ -80,11 +80,11 @@ Authors are invited to present their view on the future of research methodologie
 
 **References**
 
-Bulfin, S., Henderson, M., Johnson, N. F., & Selwyn, N. (2014). Methodological capacity within the field of “educational technology” research: An initial investigation. British Jour-nal of Educational Technology, 45(3), 403–414.
+Bulfin, S., Henderson, M., Johnson, N. F., & Selwyn, N. (2014). Methodological capacity within the field of “educational technology” research: An initial investigation. British Journal of Educational Technology, 45(3), 403–414.
 
-Cramer, F., & Jandrić, P. (2021). Postdigital: A Term That Sucks but Is Useful. Postdigital Sci-ence and Education. https://doi.org/10.1007/s42438-021-00225-9
+Cramer, F., & Jandrić, P. (2021). Postdigital: A Term That Sucks but Is Useful. Postdigital Science and Education. https://doi.org/10.1007/s42438-021-00225-9
 
-Gibson, D. C., & Ifenthaler, D. (2017). Preparing the Next Generation of Education Research-ers for Big Data in Higher Education. In B. Kei Daniel (Hrsg.), Big Data and Learning Analytics in Higher Education: Current Theory and Practice (S. 29–42). Springer Interna-tional Publishing. https://doi.org/10.1007/978-3-319-06520-5_4
+Gibson, D. C., & Ifenthaler, D. (2017). Preparing the Next Generation of Education Research-ers for Big Data in Higher Education. In B. Kei Daniel (Hrsg.), Big Data and Learning Analytics in Higher Education: Current Theory and Practice (S. 29–42). Springer International Publishing. https://doi.org/10.1007/978-3-319-06520-5_4
 
 Hartshorne, R., Ferdig, R. E., & Bull, G. (2021). What Journal Editors Wish Authors Knew About Academic Publishing (S. 1–117). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/primary/p/219093/
 
@@ -99,7 +99,7 @@ McKenney, S., & Reeves, T. C. (2013). Systematic Review of Design-Based Research
 
 Reeves, T. C., & Oh, E. G. (2017). The goals and methods of educational technology research over a quarter century (1989–2014). Educational Technology Research and Development, 65(2), 325–339. https://doi.org/10.1007/s11423-016-9474-1
 
-Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. Education-al Technology Research and Development, 68(4), 1991–2001. https://doi.org/10.1007/s11423-020-09811-3
+Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. Educational Technology Research and Development, 68(4), 1991–2001. https://doi.org/10.1007/s11423-020-09811-3
 
 Willis, J. W. (2008). Qualitative Research Methods in Education and Educational Technology. IAP.
 
