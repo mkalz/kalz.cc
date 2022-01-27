@@ -36,12 +36,19 @@ Dr. Marco Kalz, University of Education, Heidelberg, kalz@ph-heidelberg.de, http
 **Important Dates**
 
 •	March 15, 2022 —outlines of proposed papers due to the editors. Submit [in this form](https://ufl.qualtrics.com/jfe/form/SV_0MWZldR9wbzunT8).
+
 •	May 1, 2022 – Papers due in the Editorial Management system (https://www.editorialmanager.com/etrd); 
+
 •	July 1, 2022 — Reviews completed & authors notified of decisions 
+
 •	September 1, 2022 — Revised manuscripts due to the Editorial Management system (https://www.editorialmanager.com/etrd); 
+
 •	November 1, 2022 — feedback on revised manuscripts 
+
 •	December 1, 2022 — final manuscripts due by authors to the Editorial Management system (https://www.editorialmanager.com/etrd); 
+
 •	January 15, 2023 – final manuscripts sent to the publishers 
+
 •	Early 2023 publication 
 
 
@@ -73,15 +80,25 @@ Authors are invited to present their view on the future of research methodologie
 
 **References**
 Bulfin, S., Henderson, M., Johnson, N. F., & Selwyn, N. (2014). Methodological capacity within the field of “educational technology” research: An initial investigation. British Jour-nal of Educational Technology, 45(3), 403–414.
+
 Cramer, F., & Jandrić, P. (2021). Postdigital: A Term That Sucks but Is Useful. Postdigital Sci-ence and Education. https://doi.org/10.1007/s42438-021-00225-9
+
 Gibson, D. C., & Ifenthaler, D. (2017). Preparing the Next Generation of Education Research-ers for Big Data in Higher Education. In B. Kei Daniel (Hrsg.), Big Data and Learning Analytics in Higher Education: Current Theory and Practice (S. 29–42). Springer Interna-tional Publishing. https://doi.org/10.1007/978-3-319-06520-5_4
+
 Hartshorne, R., Ferdig, R. E., & Bull, G. (2021). What Journal Editors Wish Authors Knew About Academic Publishing (S. 1–117). Association for the Advancement of Computing in Education (AACE). https://www.learntechlib.org/primary/p/219093/
+
 Honebein, P. C., & Reigeluth, C. M. (2021). To prove or improve, that is the question: The resurgence of comparative, confounded research between 2010 and 2019. Educational Technology Research and Development, 69(2), 465–496. https://link.springer.com/article/10.1007%2Fs11423-021-09988-1
+
 Huang, R., Spector, J. M., & Yang, J. (2019). Emerging Issues in Educational Technology. In R. Huang, J. M. Spector, & J. Yang (Hrsg.), Educational Technology: A Primer for the 21st Century (S. 231–241). Springer. https://doi.org/10.1007/978-981-13-6643-7_13
+
 Johnson, T. E., Lin, L., Young, P. A., Ilgaz, H., Morel, G., & Spector, J. M. (2021). Thinking from Different Perspectives: Academic Publishing Strategies and Management in the Field of Educational Technology. In R. Hartshorne, R. E. Ferdig, & G. Bull (Hrsg.), What Journal Editors Wish Authors Knew About Academic Publishing (S. 37–48). AACE-Association for the Advancement of Computing in Education. https://www.learntechlib.org/primary/p/219093/
+
 Kimmons, R., & Johnstun, K. (2019). Navigating Paradigms in Educational Technology. TechTrends, 63(5), 631–641. 
 McKenney, S., & Reeves, T. C. (2013). Systematic Review of Design-Based Research Progress: Is a Little Knowledge a Dangerous Thing? Educational Researcher, 42(2), 97–100. https://doi.org/10.3102/0013189X12463781
+
 Reeves, T. C., & Oh, E. G. (2017). The goals and methods of educational technology research over a quarter century (1989–2014). Educational Technology Research and Development, 65(2), 325–339. https://doi.org/10.1007/s11423-016-9474-1
 Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. Education-al Technology Research and Development, 68(4), 1991–2001. https://doi.org/10.1007/s11423-020-09811-3
+
 Willis, J. W. (2008). Qualitative Research Methods in Education and Educational Technology. IAP.
+
 Zheng, L. (2015). A systematic literature review of design-based research from 2004 to 2013. Journal of Computers in Education, 2(4), 399–420. https://doi.org/10.1007/s40692-015-0036-z
