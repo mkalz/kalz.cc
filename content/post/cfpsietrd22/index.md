@@ -74,8 +74,11 @@ Ed Tech research can be understood as an interdisciplinary research endeavor rel
 Authors are invited to present their view on the future of research methodologies and methods in Ed Tech research. Submissions that successfully present the research in 5,000 words are particularly welcome but should not exceed 8.000 words. We particularly welcome submission like the following (list not extensive):
 
 •	a conceptual paper explaining an innovative research method in Ed Tech which provides examples from studies published before (at least one of the examples should be originated by the authors). 
-•	a systematic review analyzing the state of research methods in the field of Ed Tech providing new insights into trends and perspectives  
+
+•	a systematic review analyzing the state of research methods in the field of Ed Tech providing new insights into trends and perspectives
+
 •	a theoretical paper outlining emerging methodologies and methods for research on Ed Tech with a positioning into different research paradigms.
+
 •	a current study that focuses on emerging research methods or incorporates multiple research methods.
 
 **References**
