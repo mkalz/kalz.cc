@@ -37,15 +37,15 @@ Dr. Marco Kalz, University of Education, Heidelberg, kalz@ph-heidelberg.de, http
 
 •	March 15, 2022 —outlines of proposed papers due to the editors. Submit [in this form](https://ufl.qualtrics.com/jfe/form/SV_0MWZldR9wbzunT8).
 
-•	May 1, 2022 – Papers due in the Editorial Management system (https://www.editorialmanager.com/etrd); 
+•	May 1, 2022 – Papers due in the Editorial Management system (https://www.editorialmanager.com/etrd/default1.aspx); 
 
 •	July 1, 2022 — Reviews completed & authors notified of decisions 
 
-•	September 1, 2022 — Revised manuscripts due to the Editorial Management system (https://www.editorialmanager.com/etrd); 
+•	September 1, 2022 — Revised manuscripts due to the Editorial Management system (https://www.editorialmanager.com/etrd/default1.aspx); 
 
 •	November 1, 2022 — feedback on revised manuscripts 
 
-•	December 1, 2022 — final manuscripts due by authors to the Editorial Management system (https://www.editorialmanager.com/etrd); 
+•	December 1, 2022 — final manuscripts due by authors to the Editorial Management system (https://www.editorialmanager.com/etrd/default1.aspx); 
 
 •	January 15, 2023 – final manuscripts sent to the publishers 
 
