@@ -1,7 +1,7 @@
 ---
 title: Call for Papers Special Issue for Educational Technology Research & Development (ETR&D)
 subtitle: Methodologies for Research on Educational Technology. Emerging Approaches
-date: 2021-01-27T06:22:31+01:00
+date: 2022-01-27T06:22:31+01:00
 authors:
   - admin
 draft: false
@@ -79,6 +79,7 @@ Authors are invited to present their view on the future of research methodologie
 •	a current study that focuses on emerging research methods or incorporates multiple research methods.
 
 **References**
+
 Bulfin, S., Henderson, M., Johnson, N. F., & Selwyn, N. (2014). Methodological capacity within the field of “educational technology” research: An initial investigation. British Jour-nal of Educational Technology, 45(3), 403–414.
 
 Cramer, F., & Jandrić, P. (2021). Postdigital: A Term That Sucks but Is Useful. Postdigital Sci-ence and Education. https://doi.org/10.1007/s42438-021-00225-9
@@ -97,6 +98,7 @@ Kimmons, R., & Johnstun, K. (2019). Navigating Paradigms in Educational Technolo
 McKenney, S., & Reeves, T. C. (2013). Systematic Review of Design-Based Research Progress: Is a Little Knowledge a Dangerous Thing? Educational Researcher, 42(2), 97–100. https://doi.org/10.3102/0013189X12463781
 
 Reeves, T. C., & Oh, E. G. (2017). The goals and methods of educational technology research over a quarter century (1989–2014). Educational Technology Research and Development, 65(2), 325–339. https://doi.org/10.1007/s11423-016-9474-1
+
 Reeves, T. C., & Lin, L. (2020). The research we have is not the research we need. Education-al Technology Research and Development, 68(4), 1991–2001. https://doi.org/10.1007/s11423-020-09811-3
 
 Willis, J. W. (2008). Qualitative Research Methods in Education and Educational Technology. IAP.
