@@ -1,7 +1,7 @@
 ---
 title: Call for Papers Special Issue for Educational Technology Research & Development (ETR&D)
 subtitle: Methodologies for Research on Educational Technology. Emerging Approaches
-date: 2022-01-27T008:00:59.875Z
+date: 2022-01-27T08:00:59.875Z
 authors:
   - admin
 draft: false
