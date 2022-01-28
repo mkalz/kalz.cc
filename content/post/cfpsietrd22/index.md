@@ -25,7 +25,7 @@ image:
 
 **Special issue editors**
 
-Dr. Michael Kerres, University Duisburg-Essen, michael.kerres@uni-due.de, https://kerres.name  
+Dr. Michael Kerres, University Duisburg-Essen, michael.kerres@uni-due.de, http://kerres.name  
 
 Dr. Pavlo Antonenko, University of Florida, p.antonenko@coe.ufl.edu, 
 https://education.ufl.edu/faculty/antonenko-pavlo-pasha/
