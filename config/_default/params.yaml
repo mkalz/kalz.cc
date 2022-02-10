@@ -35,7 +35,7 @@ coordinates:
 directions: Enter building and take the stairs to the left to the third floor (Office A336)
 office_hours:
   - 'By appointment'
-appointment_url: 'https://calendly.com/mkalz/sprechsstunde-ss2021?month=2021-04'
+appointment_url: 'https://outlook.office365.com/owa/calendar/SprechstundeKalz@elmeb.org/bookings/'
 contact_links:
   - icon: twitter
     icon_pack: fab
