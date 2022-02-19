@@ -6,7 +6,7 @@ summary: ""
 authors: []
 tags: [PhD]
 categories: []
-date: 2021-04-11T13:59:00+02:00
+date: 2022-02-18T13:59:00+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,3 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+- Title of the thesis: Educational Innovation towards Organizational Development. The Art of Governing Open and Online Education in Dutch Higher Education Institutions
+- Defense date: 18. February 2022
+- Awarding institution: Open University of the Netherlands
+- Promotor: Marco Kalz, Co-Promotor: Marcus Specht (Technical University Delft)
+- Members of the assessment commmittee:
+  - Prof. Dr. George Veletsianos, Royal Roads University, Canada
+  - Prof. Dr. O. Zawacki-Richter, Oldenburg University, Germany
+  - Prof. Dr. Wilfried Admiraal, Leiden University/University of Oslo
+  - Prof. Dr. Hendrik Drachsler, Open Universiteit/DIPF
+  - Dr. Frank de Langen, Open Universiteit
