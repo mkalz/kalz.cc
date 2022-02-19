@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Martine Schophuizen"
-summary: ""
-authors: []
+summary: "Educational Innovation towards Organizational Development. The Art of Governing Open and Online Education in Dutch Higher Education Institutions"
+authors: [Martine Schophuizen]
 tags: [PhD]
 categories: []
 date: 2022-02-18T13:59:00+02:00
