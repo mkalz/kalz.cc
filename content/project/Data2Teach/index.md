@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "DeTEL"
-summary: "Doctoral Education for Technology-Enhanced Learning"
+title: "Data2Teach"
+summary: "Wie Daten Schule und Schulen Daten machen"
 authors: []
-tags: [EU project]
-categories: []
+tags: [National project]
+categories: [open education, data science, artificial intelligence datafication, data literacy]
 date: 2021-04-11T13:59:50+02:00
 
 # Optional external URL for project (replaces project detail page).
@@ -39,9 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+**Funded via a grant of the German Ministry of Research and Education, August 2021 – February 2022), Budget: 41 000 EUR (22 000 acquired for own institution, Role: coordinator), https://elmeb.org/data2teach**
 
-Doctoral Education for Technology-Enhanced Learning (DE-TEL) project will establish and deepen a strategic partnership for doctoral education in Technology-Enhanced Learning (TEL). DE-TEL brings together 9 internationally renowned universities and the [European Association of Technology-Enhanced Learning](https://ea-tel.eu/) to reflect their expertise in doctoral education into a new internationally validated program in TEL, extended with rich and professionally produced Open Educational Resources. The project grounds the design of the new program in the best practices in TEL doctoral education across Europe as well as institutional and national requirements.
-
-DE-TEL will create a new offer in an area of research that finds practical application across Europe as digitalisation of education is in an increasing demand to solve multiple challenges.
-
-Doctoral education in TEL aims to develop expertise in doctoral candidates, provide knowledge from multiple relevant perspectives and allows taking empirically-based decisions in implementing TEL solutions in practice. The goal of DE-TEL is to bring doctoral education in TEL to a new level with high-quality resources and a new internationally designed program to support better curricular integration and avoid fragmentation of the digitalisation agenda in Europe.
+Im Rahmen des Projektes ist ein offener Online-Kurs entwickelt worden, der das Thema Data-Science speziell für Studierende des Lehramtes aufbereitet und erfahrbar macht. Ziel war es, das Thema Bildungsdaten und Datafication von Schule schulnah zu adressieren und (angehende) Lehrer*innen dafür zu sensibilisieren. Die Kursentwicklung orientiert sich an den Richtlinien der Kultusministerkonferenz und an allgemeinen mediendidaktischen und -pädagogischen Qualitätskriterien. Der Kurs soll in der Lehramtsausbildung der beteiligten Institutionen eingesetzt werden und nachrangig auch für die Lehrer*innenfortbildung entlang der Lehrerbildungskette zum Einsatz kommen. Im Rahmen des Kurses werden technisch-funktionale Aspekte von Datenkompetenz kombiniert und in Beziehung gesetzt zu anwendungsbezogenen, (medien- und schul- )pädagogischen sowie gesellschaftlich-kulturellen Fragen. Im Rahmen des Online-Kurses wird daher auf ein ausgewogenes Verhältnis von verschiedenen Facetten von Daten- und Medienkompetenz abgezielt und speziell unter Perspektive der eigenen Nutzung für pädagogische Zwecke sowie der Anwendung im Schulalltag thematisiert.
