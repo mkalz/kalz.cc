@@ -41,7 +41,7 @@ slides: ""
 ---
 
 - Title of the thesis: Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses
-- Defense date: 6. September 2019
+- Defense date: 10. September 2021
 - Awarding institution: Open University of the Netherlands
 - Promotor: Marco Kalz, Co-Promotor: Yoram Kalman (Open University of Israel)
 - Members of the assessment commmittee:
