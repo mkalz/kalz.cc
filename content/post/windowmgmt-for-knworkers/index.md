@@ -25,7 +25,7 @@ Since many years I am using at least one external monitor for work and it has su
 
 **My setup for the use of three monitors**
 
-I could now finally realize this scenario with a relatively easy set of ingredients after a lot of trail-and-error and I would like to share the setup here:
+I could now finally realize this scenario with a relatively easy set of ingredients after a lot of trial-and-error and I would like to share the setup here:
 
   1. Elgato Stream Deck MK.2 – [Studio-Controller with 15 buttons](https://www.elgato.com/de/stream-deck)
   2. A small application called [Moom](https://manytricks.com/moom/) which costs around 12 EUR 
