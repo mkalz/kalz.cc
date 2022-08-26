@@ -5,7 +5,7 @@ title: "Data2Teach"
 summary: "Wie Daten Schule und Schulen Daten machen"
 authors: []
 tags: [National project]
-categories: [open education, data science, artificial intelligence datafication, data literacy]
+categories: [open education, data science, artificial intelligence datafication, data literacy, teachers, schools]
 date: 2021-04-11T13:59:50+02:00
 
 # Optional external URL for project (replaces project detail page).
