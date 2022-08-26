@@ -4,9 +4,9 @@
 title: "INTERACT Europe"
 summary: "Innovative collaboration for Inter-specialty cancer training across Europe"
 authors: []
-tags: [cancer, professionalisation, doctors, nurses, ]
+tags: [cancer, professionalisation, doctors, nurses, EU project]
 categories: [project, EU, R&D, H2020, EU Health]
-date: 2021-04-10T23:25:23+02:00
+date: 2022-07-1T23:25:23+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
