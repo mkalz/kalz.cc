@@ -4,11 +4,11 @@
 title: "Open Education as Social Movement? Between Evidence-Based Research and Activism"
 authors:
 - admin
-date: 2020-06-11T16:33:18+02:00
+date: 2022-06-11T16:33:18+02:00
 doi: "https://doi.org/10.1007/978-981-19-0351-9_3-1"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-06-11T16:33:18+02:00
+publishDate: 2022-06-11T16:33:18+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
