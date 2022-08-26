@@ -29,7 +29,7 @@ summary: ""
 
 tags: [feedback studies, academic writing, argument analysis, argument mining, NLP]
 categories: [publications, journal articles]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
