@@ -1,7 +1,7 @@
 ---
 title: Backupstrategy for Knowledge-workers under MacOS
 subtitle: First steps in Logseq
-date: 2022-01-02T09:36:59.875Z
+date: 2022-08-28T09:36:59.875Z
 authors:
   - admin
 draft: false
