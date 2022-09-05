@@ -23,7 +23,7 @@ image:
 Twitter has recently announced that it will make the so called "full archive search" available for academic research. Until this change, it was either very costly (by paying for the enterprise version) or it took very long to build an archive of tweets (for example via the very good [TAGS tool](https://tags.hawksey.info)). With the new product for researchers and the advanced version of the Twitter-API (v2) it is possible to collect tweets from the whole archive even until the first day of existence of Twitter. This changes the potential to use Twitter also for retrospective research completely. Since the setup is not that easy I will lead you through the steps required for starting your own research with the help of Twitter.
 
 
-bls blas n
+
 **Step-by-step instruction towards your corpus of tweets**
 
 1. To get started you need first of all an account with Twitter. Since you are planning to use Twitter in your resarch I expect that you will be already using Twitter and have an account. If you have a normal account you need to apply for a developer-account with the same credentials.
