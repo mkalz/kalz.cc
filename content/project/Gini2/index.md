@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-**Funded via a grant of the German Ministry of Research and Education, Ocotber 2022 – September 2024), Budget: tba (298 486 EUR acquired for own institution, Role: partner)**
+**Funded via a grant of the German Ministry of Research and Education, October 2022 – September 2024), Budget: tba (298 486 EUR acquired for own institution, Role: partner)**
 
     
 Evaluation und mediendidaktische/musikpädagogische Validierung von Gini2
