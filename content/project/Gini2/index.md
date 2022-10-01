@@ -6,7 +6,7 @@ summary: "Assistierte und einfach generierte intelligente Musiklehre im interakt
 authors: []
 tags: [National project]
 categories: [mobile learning, AI, gesture-based interaction, music teaching, feedback]
-date: 2022-10-01T05:59:50+02:00
+date: 2022-10-01T02:59:50+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
