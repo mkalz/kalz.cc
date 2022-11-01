@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-- Title of the thesis: Scaling the Unscalable? Interaction and Support in Open Online Education
+- Title of the thesis: Scaling the Unscalable? Interaction and Support in Open Online Education [(thesis download)](https://research.ou.nl/files/24569608/11402_Julia_Kasch_complete_PDF.pdf)
 - Defense date: 9. October 2020
 - Awarding institution: Open University of the Netherlands
 - Promotor: Marco Kalz, Co-Promotor: Peter van Rosmalen (University of Maastricht)

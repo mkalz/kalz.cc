@@ -39,7 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-- Title of the thesis: Mind the Gap. Unravelling learner success and behaviour in Massive Open Online Courses
+- Title of the thesis: Mind the Gap. Unravelling learner success and behaviour in Massive Open Online Courses [(thesis download)](https://research.ou.nl/ws/portalfiles/portal/11849471/DissertationMaartjeHenderikx.pdf)
 - Defense date: 6. September 2019
 - Awarding institution: Open University of the Netherlands
 - Promotor: Marco Kalz, Co-Promotor: Karel Kreijns
