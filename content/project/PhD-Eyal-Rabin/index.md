@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-- Title of the thesis: Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses
+- Title of the thesis: Through the Lens of the Learner: Using Learning Analytics to Predict Learner-Centered Outcomes in Massive Open Online Courses [(thesis download)](https://research.ou.nl/ws/portalfiles/portal/44133170/Eyal_Rabin_dissertation_PhD.pdf)
 - Defense date: 10. September 2021
 - Awarding institution: Open University of the Netherlands
 - Promotor: Marco Kalz, Co-Promotor: Yoram Kalman (Open University of Israel)
