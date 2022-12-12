@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "JOKER"
-summary: "Journalistische und crossmedial Kompetenzentwicklung für Studierende"
+summary: "Journalistische und crossmediale Kompetenzentwicklung für Studierende"
 authors: []
 tags: [National project]
 categories: [journalism, cross-media development, social media, pre-service teachers, OER]
