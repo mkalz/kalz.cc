@@ -28,7 +28,7 @@ summary: ""
 
 tags: [emergency remote teaching, resilience, higher education, Covid-19, teaching quality]
 categories: [publications, journal articles, ISI-journals]
-featured: True
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
