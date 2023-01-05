@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Didaktische und ethische Implikationen von KI in Schule und Unterricht"
-event: "digi@school: Schule im digitalen Wandel " 
-event_url: "https://www.digiatschool.de/keynotes"
-location:
+title: "Who let the drop out?"
+event: Annual conference of European Association of Distance Teaching Universities (EADTU) 2015
+event_url: https://www.fernuni-hagen.de/videostreaming/sonstige/20151029.shtml
+location: Online
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: 
-abstract: ""
+summary: This one day Media & Learning Online Conference took place on Thursday 6 May and was aimed at everyone interested in enhancing teaching and learning in higher education with the support of media. 
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-03-31T09:15:00+01:00
-date_end: 2022-03-31T10:15:00+01:00
+date: 2015-10-29T09:00:00+02:00
+date_end: 2015-10-29T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-03-12T20:35:27+01:00
+publishDate: 2021-04-11T00:18:04+02:00
 
 authors: []
-tags: []
+tags: [events, dropout, moocs, intentions, intention-behaviour gap]
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -46,11 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
-
+url_slides: https://www.slideshare.net/EADTU/2015-m-kalz-who-let-the-drop-out
 url_code:
 url_pdf:
-url_video:
+url_video: https://vimeo.com/295859911
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -66,3 +65,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Kalz, M. (2015). Who let the drop out? Invited keynote at the EADTU Conference on Online, open and flexible higher education, 29. October 2015, Fernuniversität Hagen, Germany.
