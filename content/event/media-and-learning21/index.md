@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "How did higher education lecturers cope with the pandemic?"
-event: Annual conference of the Media and Learning Assocation: Managing and innovating video-based services in Higher Education
+event: Annual conference of the Media and Learning Assocation. Managing and innovating video-based services in Higher Education
 event_url: https://media-and-learning.eu/event/media-learning-online/
 location: Online
 address:
