@@ -21,7 +21,7 @@ date_end: 2015-10-29T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-04-11T00:18:04+02:00
+publishDate: 2019-12-04T00:18:04+02:00
 
 authors: []
 tags: [events, keynote, scale, scaling, educational scalability, feedback, peer-feedback]
