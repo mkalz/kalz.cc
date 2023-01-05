@@ -24,7 +24,7 @@ all_day: true
 publishDate: 2021-04-11T00:18:04+02:00
 
 authors: []
-tags: [events, resilience]
+tags: [events, resilience, pandemic, emergency remote teaching]
 
 # Is this a featured event? (true/false)
 featured: true
