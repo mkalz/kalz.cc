@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "How did higher education lecturers cope with the pandemic?"
-event: Annual conference of the Media and Learning Assocation. Managing and innovating video-based services in Higher Education
-event_url: https://media-and-learning.eu/event/media-learning-online/
-location: Online
+title: "Learning in the digital society. Effects and unintended consequences of mainstreaming of technology-enhanced learning"
+event: Annual CHAIS conference of the Research Center for Innovation in Learning Technologies at the Open University of Israel
+event_url: 
+location: Ra'anana, Israel
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary: 
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-06T09:00:00+02:00
-date_end: 2021-05-06T18:00:00+02:00
-all_day: true
+date: 2019-02-13T09:00:00+02:00
+date_end: 2019-02-13T11:00:00+02:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-05-11T00:18:04+02:00
+publishDate: 2020-04-11T00:18:04+02:00
 
 authors: []
-tags: [events, resilience, pandemic, emergency remote teaching]
+tags: [events, keynote, technology-enhanced learning, mainstreaming, philantrophy, determinism, institutional research]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
+url_slides: 
 url_code:
 url_pdf:
-url_video: https://vimeo.com/547678060#t=1828s
+url_video: https://youtu.be/hmz-5CblECw
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -65,4 +65,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Kalz, M. (2021). How did higher education lecturers cope with the pandemic? Invited presentation Media-and-Learning Association Annual Conference.
+Kalz, M. (2019). Learning in the digital society. Effects and unintended consequences of mainstreaming of technology-enhanced learning. Invited keynote at the annual CHAIS conference of the Research Center for Innovation in Learning Technologies at the Open University of Israel. February 2019, Open University of Israel, Ra'anana, Israel.

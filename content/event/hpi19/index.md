@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: Annual event of the HPI Institute. Focus topic in 2019 was "social learning".
+summary:
 abstract:
 
 # Talk start and end times.
