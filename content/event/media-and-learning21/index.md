@@ -65,3 +65,4 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Kalz, M. (2021). How did higher education lecturers cope with the pandemic? Invited presentation Media-and-Learning Association Annual Conference.

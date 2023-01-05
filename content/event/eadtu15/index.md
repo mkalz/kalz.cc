@@ -4,14 +4,14 @@
 title: "Who let the drop out?"
 event: Annual conference of European Association of Distance Teaching Universities (EADTU) 2015
 event_url: https://www.fernuni-hagen.de/videostreaming/sonstige/20151029.shtml
-location: Online
+location: Hagen, Germany
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: This one day Media & Learning Online Conference took place on Thursday 6 May and was aimed at everyone interested in enhancing teaching and learning in higher education with the support of media. 
+summary:  
 abstract:
 
 # Talk start and end times.
@@ -24,7 +24,7 @@ all_day: false
 publishDate: 2021-04-11T00:18:04+02:00
 
 authors: []
-tags: [events, dropout, moocs, intentions, intention-behaviour gap]
+tags: [events, keynote, dropout, moocs, intentions, intention-behaviour gap]
 
 # Is this a featured event? (true/false)
 featured: true

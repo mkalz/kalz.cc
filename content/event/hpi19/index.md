@@ -1,33 +1,33 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PhD defense Martine Schophuizen"
-event: "" 
-event_url: ""
-location:
+title: "Challenges of realising scalable open education with (peer) feedback"
+event: Open HPI Forum 2019
+event_url: https://hpi.de/veranstaltungen/hpi-veranstaltungen/2019/openhpi-forum-2019.html
+location: Potsdam, Germany
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: 
-abstract: ""
+summary: Annual event of the HPI Institute. Focus topic in 2019 was "social learning".
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-02-18T16:00:00+01:00
-date_end: 2022-02-18T17:00:00+01:00
+date: 2015-10-29T09:00:00+02:00
+date_end: 2015-10-29T11:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2021-03-12T20:35:27+01:00
+publishDate: 2021-04-11T00:18:04+02:00
 
 authors: []
-tags: []
+tags: [events, keynote, scale, scaling, educational scalability, feedback, peer-feedback]
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -46,11 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides:
-
+url_slides: 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.tele-task.de/lecture/video/7859/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -64,5 +63,6 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [SOONER]
+projects: []
 ---
+Kalz, M. (2019). Challenges of realising scalable open education with (peer) feedback. Invited keynote at the Open HPI Forum, 28. November 2019, HPI Potsdam, Germany.
