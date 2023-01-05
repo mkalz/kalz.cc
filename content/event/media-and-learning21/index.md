@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Media and Learning21"
-event: Managing and innovating video-based services in Higher Education
+title: "How did higher education lecturers cope with the pandemic?"
+event: Annual conference of the Media and Learning Assocation: Managing and innovating video-based services in Higher Education
 event_url: https://media-and-learning.eu/event/media-learning-online/
 location: Online
 address:
@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: This one day Media & Learning Online Conference will take place on Thursday 6 May and is aimed at everyone interested in enhancing teaching and learning in higher education with the support of media. 
+summary: This one day Media & Learning Online Conference took place on Thursday 6 May and was aimed at everyone interested in enhancing teaching and learning in higher education with the support of media. 
 abstract:
 
 # Talk start and end times.
@@ -27,7 +27,7 @@ authors: []
 tags: [events, resilience]
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -49,7 +49,7 @@ image:
 url_slides:
 url_code:
 url_pdf:
-url_video:
+url_video: https://vimeo.com/547678060#t=1828s
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
