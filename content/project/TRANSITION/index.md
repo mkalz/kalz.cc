@@ -6,7 +6,7 @@ summary: "Digital Transition and digital resilience in oncology"
 authors: []
 tags: [EU project, cancer, professionalization, doctors, nurses, TEL]
 categories: [project, EU, R&D, H2020, EU Health]
-date: 2022-07-1T23:25:23+02:00
+date: 2023-17-1T23:25:23+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
