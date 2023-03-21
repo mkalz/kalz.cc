@@ -35,7 +35,7 @@ coordinates:
 directions: Enter building and take the stairs to the left to the third floor (Office A336)
 office_hours:
   - 'By appointment'
-appointment_url: 'https://outlook.office365.com/owa/calendar/SprechstundeKalz@elmeb.org/bookings/'
+appointment_url: 'https://fantastical.app/mkalz/booking'
 contact_links:
   - icon: twitter
     icon_pack: fab
