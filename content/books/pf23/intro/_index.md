@@ -4,7 +4,7 @@ title: Einleitung
 
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: PF23-intro
+linktitle:
 
 # Page summary for search engines.
 summary: "Einleitung in das Buch'"

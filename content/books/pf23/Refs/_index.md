@@ -4,7 +4,7 @@ title: Referenzen
 
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle: PF23-Refs
+linktitle:
 
 # Page summary for search engines.
 summary: "Referenzliste des Buches'"
