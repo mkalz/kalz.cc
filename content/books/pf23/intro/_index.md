@@ -1,7 +1,22 @@
 ---
+# Page title
 title: Einleitung
-date: 2023-03-25
+
+
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+linktitle:
+
+# Page summary for search engines.
+summary: "Einleitung in das Buch'"
+
+# Date page published
+date: "2023-03-25"
+
+# Book page type (do not modify).
 type: book
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 1
 ---
 Feedback gehört unzweifelhaft zum methodischen Kern aller Lern- und Lehrprozesse. Hierzu haben verschiedene Meta-Studien gezeigt, wie wichtig Feedback für den Lernerfolg sein kann (Hattie, 2009; Hattie & Clarke, 2018) und es gibt verschiedene Sichweisen auf die Rolle von Feedback in Lehr- und Lernprozessen. Lipnevich und Panadero (2021) haben in einem Beitrag einige wichtige Perspekti- ven und Modelle zum Feedback zusammengefasst. Dabei weisen die Autor:innen darauf hin, dass sich das Verständnis von Feedback erst langsam von der Beurteilung hin zur Lernunterstützung gewandelt hat. In diesem Kontext wird Bloom (1971) oft als der erste Autor erwähnt, der auf Basis von Ideen zur formativen Evaluation von Scriven (1967) diesen Wechsel diskutiert hat Wiliam (2006). Arbeiten von u.a. Winstone, Pitt und Nash (2021) darauf hin, dass viele Lehrende an Hochschule noch immer aus einer kognitivistischen Perspektive und demzufolge auf einem auf Wissensübertragung orientierten Modell verhaftet sind, mit dem diese eine Hauptverantwortung im Rahmen von Feedbackprozessen übernehmen und den Lernenden eine eher empfangende Rolle zukommt. Dadurch ergibt sich eine direkte Verbindung von Feedback und Macht bzw. Feedback und Steuerungmöglichkeiten (im englischsprachigen Diskurs of als "Agency" bezeichnet).
 
