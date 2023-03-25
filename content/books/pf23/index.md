@@ -1,8 +1,7 @@
 ---
 # Page title
-title: Peer-Feedback in der Hochschullehre: Grundlagen, Konzept und Implementationsbeispiele
+title: Peer-Feedback in der Hochschullehre: Grundlagen, Konzepte und Implementationsbeispiele
 
-authors: [-admin]
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle: PF23
