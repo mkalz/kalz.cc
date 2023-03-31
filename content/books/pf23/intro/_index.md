@@ -18,6 +18,9 @@ type: book
 # TOC
 toc: false
 
+# PDF
+url_pdf = "https://kalz.cc/books/pf23/intro/intro.pdf"
+
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
