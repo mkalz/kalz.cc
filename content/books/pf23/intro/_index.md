@@ -2,7 +2,6 @@
 # Page title
 title: Einleitung
 
-
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
 linktitle:
 
@@ -18,8 +17,9 @@ type: book
 # TOC
 toc: false
 
-# PDF
-url_pdf = "https://kalz.cc/books/pf23/intro/intro.pdf"
+# Links (optional).
+url_custom = [{name = "PDF Download", url = "pdf/intro.pdf"}
+url_pdf = "pdf/intro.pdf"
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
