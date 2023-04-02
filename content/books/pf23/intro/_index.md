@@ -23,6 +23,9 @@ url_custom: = [{name = "PDF Download", url = "pdf/intro.pdf"}
 # Show a link to the next article in the series?
 pager: true
 
+# Show breadcrumb navigation?
+show_breadcrumb: true
+
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
