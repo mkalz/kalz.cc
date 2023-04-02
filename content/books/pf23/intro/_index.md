@@ -20,6 +20,9 @@ toc: false
 # Links (optional).
 url_custom: = [{name = "PDF Download", url = "pdf/intro.pdf"}
 
+# Show a link to the next article in the series?
+pager: true
+
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---
