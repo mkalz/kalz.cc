@@ -3,7 +3,7 @@
 title: Einleitung
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-linktitle:
+# linktitle:
 
 # Page summary for search engines.
 summary: "Einleitung in das Buch'"
@@ -51,3 +51,5 @@ In einer aktuellen Stellungnahme schlägt der Wissenschaftsrat (2022) vor, eine 
 Bei der Diskussion zum Wechsel des Feedbackparadigmas an Hochschulen vom summativen hin zum formativem Feedback sowie zum dialogorientierten Model mit einer geteilten Verantwortung ist das Format des Peer-Feedback bisher nur als ein Randphänomen im deutschsprachigen Diskurs diskutiert worden. Generell beschäftigen sich nur wenige Publikationen dezidiert mit dem Thema des Feedbacks in der Hochschullehre. Dainton (2018) gibt einen allgemeine Einführung zu den Grundlagen von Feedback in der Hochschullehre. Weiterhin sind einige wenige deutschsprachige Publikationen zu finden, die sich entweder mit einer allgemeinen Diskussion der Veränderung des Feedback-Paradigms in der Hochschullehre (z.B. Sippel, 2009), punktuell mit einer Veränderung der Feedback-Praxis (z.B. Wilkens, 2020) oder aber mit Veränderungen der Feedback-Praxis durch die Nutzung von digitalen Technologien beschäftigen (z.B. Schulz, 2013; van Koll, 2015). Eine Ausnahme bilden einige wenige Publikationen aus der Hochschuldidaktik, die sich explizit mit dem Thema des Peer-Learning beschäftigen. Rohr, Den Ouden und Rottlaender (2016) widmen sich in Ihrem Buch den Lehr- und Beratungsprozessen, die im Hochschulkontext zwischen Studierenden und Lehrenden, aber auch Studierenden und Lehrenden untereinander auftreten können. Dabei widmet sich das Buch allgemein mit den didaktischen Hintergründen des Peer-Learning und diskutiert das Peer-Learning aus der Beratungsperspektive, geht aber nicht explizit auf Peer-Feedback ein.
 
 Es gibt zwar zahlreiche kleinere Projekte, Handreichungen und Erfahrungsberichte auch aus Hochschulen aus dem deutschsprachigen Raum, aber es fehlt derzeit an einem Buch, welches einen Überblick gibt zur Gestaltung, Implementation und Evaluation von Peer-Feedback in der Hochschullehre. Diesen Überblick soll das vorliegende Buch schaffen. Dabei soll das Buch einerseits den aktuellen internationalen Forschungsstand zum Peer-Feedback zusammenfassen, andererseits sollen praktische Implementationshinweise aus der Forschung und Praxis abgeleitet werden. Das Buch hat als Zielgruppe alle Lehrenden an Hochschulen, die sich mit der Veränderung ihrer Lehre und einem dialogorientierten Verständnis von Feedback beschäftigen wollen.
+
+{{% staticref "uploads/intro.pdf" "newtab" %}}Download this chapter{{% /staticref %}}
