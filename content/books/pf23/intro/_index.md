@@ -18,8 +18,7 @@ type: book
 toc: false
 
 # Links (optional).
-url_custom = [{name = "PDF Download", url = "pdf/intro.pdf"}
-url_pdf = "pdf/intro.pdf"
+url_pdf: = "pdf/intro.pdf"
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
