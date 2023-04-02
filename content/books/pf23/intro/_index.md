@@ -52,4 +52,4 @@ Bei der Diskussion zum Wechsel des Feedbackparadigmas an Hochschulen vom summati
 
 Es gibt zwar zahlreiche kleinere Projekte, Handreichungen und Erfahrungsberichte auch aus Hochschulen aus dem deutschsprachigen Raum, aber es fehlt derzeit an einem Buch, welches einen Überblick gibt zur Gestaltung, Implementation und Evaluation von Peer-Feedback in der Hochschullehre. Diesen Überblick soll das vorliegende Buch schaffen. Dabei soll das Buch einerseits den aktuellen internationalen Forschungsstand zum Peer-Feedback zusammenfassen, andererseits sollen praktische Implementationshinweise aus der Forschung und Praxis abgeleitet werden. Das Buch hat als Zielgruppe alle Lehrenden an Hochschulen, die sich mit der Veränderung ihrer Lehre und einem dialogorientierten Verständnis von Feedback beschäftigen wollen.
 
-{{% staticref "uploads/intro.pdf" "newtab" %}}Download this chapter{{% /staticref %}}
+{{% staticref "static/uploads/intro.pdf" "newtab" %}}Download this chapter as PDF (password proteced){{% /staticref %}}
