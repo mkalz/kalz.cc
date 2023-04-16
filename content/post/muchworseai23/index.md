@@ -39,7 +39,7 @@ You have read that I am criticizing the discourse on AI here in the last weeks a
 
 Tristan Harris and Aza Raskin of the [Center for Humane Technology](https://www.humanetech.com) are developing in the video below a very well-grounded summary of the catastrophic risks of the current generation of AI on many fundamental aspects of societies and they are right to demand responsibility and a discourse about potential unwanted effects of large powerful tech-companies striving for market domination through a rat-race for the most powerful GOLLEMS. 
 
-If you have one hour today, this is the best video currently available on the dangers of current generation of AI. Watch it and talk about it!
+If you have one hour today, [this is the best video currently available](https://www.youtube.com/watch?v=xoVJKj8lcNQ) on the dangers of current generation of AI. Watch it and talk about it!
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoVJKj8lcNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
