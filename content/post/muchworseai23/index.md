@@ -41,5 +41,4 @@ Tristan Harris and Aza Raskin of the [Center for Humane Technology](https://www.
 
 If you have one hour today, [this is the best video currently available](https://www.youtube.com/watch?v=xoVJKj8lcNQ) on the dangers of current generation of AI. Watch it and talk about it!
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xoVJKj8lcNQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xoVJKj8lcNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
