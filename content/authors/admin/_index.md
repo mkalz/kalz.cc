@@ -19,7 +19,7 @@ bio: My research interests is on open education, pervasive technologies and form
 # Interests to show in About widget
 interests:
 - Open Education
-- Formative Feedback
+- Peer Feedback
 - Data Science in Education
 - Learner intentions
 - Educational scalability 
