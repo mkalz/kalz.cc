@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse"
-event: Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik
-event_url: 
-location:
+title: "Chancen und Herausforderungen von Peer-Feedback in der Hochschullehre"
+event: Symposium: "Brückenschlag: Lernprozesse in analogen, hybriden und digitalen Formaten"
+event_url: https://quadis.profilehreplus.de/assets/Uploads/Symposium-4/230221_QUADIS_Symposium_FAU_UniBamberg_Call_DEUTSCH.pdf
+location: Nürnberg, Germany
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: 
+summary:
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-09-19T12:30:00+02:00
-date_end: 2023-09-19T14:00:00+02:00
+date: 2023-10-11T10:00:00+02:00
+date_end: 2023-10-11T10:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2023-06-28T00:18:04+02:00
 
 authors: []
-tags: [events, invited talk, future skills, 4K]
+tags: [events, keynote, feedback, peer-feedback]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -49,7 +49,7 @@ image:
 url_slides: 
 url_code:
 url_pdf:
-url_video: 
+url_video: https://www.tele-task.de/lecture/video/7859/
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.

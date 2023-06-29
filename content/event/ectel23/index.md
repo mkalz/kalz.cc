@@ -1,30 +1,30 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Challenges of realising scalable open education with (peer) feedback"
-event: Open HPI Forum 2019
-event_url: https://hpi.de/veranstaltungen/hpi-veranstaltungen/2019/openhpi-forum-2019.html
-location: Potsdam, Germany
+title: "Panel on Educational Futures"
+event: European Conference on Technology-Enhanced Learning 2023
+event_url: 
+location: Aveiro, Portugal
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary:
+summary:  
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2015-10-29T09:00:00+02:00
-date_end: 2015-10-29T11:00:00+02:00
+date: 2023-09-06T09:00:00+02:00
+date_end: 2023-09-06T10:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2019-12-04T00:18:04+02:00
+publishDate: 2023-06-28T00:18:04+02:00
 
 authors: []
-tags: [events, keynote, scale, scaling, educational scalability, feedback, peer-feedback]
+tags: [events, invited panel, EC-TEL, futures, education]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -46,10 +46,10 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your event's folder or a URL.
-url_slides: 
+url_slides: https://www.slideshare.net/EADTU/2015-m-kalz-who-let-the-drop-out
 url_code:
 url_pdf:
-url_video: https://www.tele-task.de/lecture/video/7859/
+url_video: https://vimeo.com/295859911
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
@@ -65,4 +65,3 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Kalz, M. (2019). Challenges of realising scalable open education with (peer) feedback. Invited keynote at the Open HPI Forum, 28. November 2019, HPI Potsdam, Germany.

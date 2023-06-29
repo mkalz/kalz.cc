@@ -4,7 +4,7 @@
 title: "Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse"
 event: Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik
 event_url: 
-location:
+location: online
 address:
   street:
   city:
