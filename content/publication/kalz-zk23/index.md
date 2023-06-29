@@ -4,11 +4,11 @@
 title: "Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen"
 authors:
 - admin
-date: 2022-06-03T16:33:18+02:00
+date: 2023-06-03T16:33:18+02:00
 doi: "https://doi.org/10.35542/osf.io/qbaze"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-06-28T16:33:18+02:00
+publishDate: 2023-06-28T16:33:18+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
