@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Chancen und Herausforderungen von Peer-Feedback in der Hochschullehre"
-event: Symposium: "Brückenschlag: Lernprozesse in analogen, hybriden und digitalen Formaten"
+event: Symposium: Brückenschlag. Lernprozesse in analogen, hybriden und digitalen Formaten
 event_url: https://quadis.profilehreplus.de/assets/Uploads/Symposium-4/230221_QUADIS_Symposium_FAU_UniBamberg_Call_DEUTSCH.pdf
 location: Nürnberg, Germany
 address:
