@@ -31,7 +31,7 @@ summary: ""
 
 tags: [open education, higher education, educational innovation, organizational research, leadership, strategy]
 categories: [publications, journal articles, ISI-journals]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

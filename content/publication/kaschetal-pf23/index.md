@@ -7,7 +7,7 @@ authors:
 - Peter van Rosmalen
 - admin
 date: 2022-06-11T16:33:18+02:00
-doi: "https://doi.org/10.1007/978-981-19-0351-9_3-1"
+doi: "https://doi.org/10.1007/978-3-031-29411-2_12"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-06-28T16:33:18+02:00
@@ -61,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [SOONER, PhD-Julia-Kasch]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
