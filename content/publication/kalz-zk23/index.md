@@ -27,7 +27,7 @@ summary: ""
 
 tags: [future skills, zukunftskompetenz, 4K, criticism]
 categories: [preprint]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
