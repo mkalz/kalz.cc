@@ -1,5 +1,5 @@
 ---
-title: Don´t believe the hype. 9 problems with the concept of future skills and 21st century skills
+title: Don´t believe thy hype. 9 problems with the concept of future skills and 21st century skills
 subtitle:
 date: 2023-07-05T09:36:59.875Z
 authors:
