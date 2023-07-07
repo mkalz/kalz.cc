@@ -37,7 +37,7 @@ I have written at the end of the last semester a critical review of the concept 
    Due to the downgrading of domain knowledge there is an unclear relation to initiatives related to near and far transfer of knowledge (Barnett & Ceci, 2002).
 7. Didactical implications
    In the discourse it is not clear if initiatives for future skills are related to setting new learning objectives, new learning activities or new didactucal approaches. This differentiation is important for the development of new teaching approaches.
-8. Missing priorization of skills
+8. Missing prioritization of skills
    The lack of order in existing lists of skills leads to an unclear empirical research basis. Pellegrino & Hilton (2012) argue that research should build on evidence and predictors.
 9. Lack of attention to learning contexts and learning environments
    The discourse often neglects the role of (real-world) learning contexts and new learning environments to work on these complex problems.
