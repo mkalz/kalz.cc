@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Chancen und Herausforderungen von Peer-Feedback in der Hochschullehre"
+title: "Peer Feedback: Brücke zu einer neuen Feedback- und Beurteilungskultur in der Hochschullehre?"
 event: "Symposium Brückenschlag: Lernprozesse in analogen, hybriden und digitalen Formaten"
 event_url: https://quadis.profilehreplus.de/assets/Uploads/Symposium-4/230221_QUADIS_Symposium_FAU_UniBamberg_Call_DEUTSCH.pdf
 location: Nürnberg, Germany
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract:
+abstract: 2022 forderte der Wissenschaftsrat die Etablierung einer neuen Prüfungskultur an Hochschulen. Jedoch sind steigende Studierendenzahlen für Lehrende eine große Herausforderung, um individuelle Lernprozesse zu unterstützen. Das Format des Peer-Feedbacks bietet ein flexible Möglichkeit, um Studierende in die Entwicklung von Beurteilungskriterien und das Geben und Empfangen von Feedback einzubeziehen. Dabei ist die größte Herausforderung, die Komplexität des Designs und der Implementation von Peer-Feedback so herunterzubrechen, dass Peer-Feedback sich ohne extremen Aufwand in den Alltag der Lehre integrieren lässt. Im Rahmen des Beitrags wird der aktuelle Forschungsstand zu Peer-Feedback in der Hochschullehre reflektiert und es werden Forschungsergebnisse präsentiert, die beitragen zur Reduzierung der Implementationskomplexität von Peer-Feedback. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
