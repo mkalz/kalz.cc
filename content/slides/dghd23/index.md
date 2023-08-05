@@ -13,8 +13,4 @@ slides:
   highlight_style: dracula
 ---
 
-<script src="[https://documentcloud.adobe.com/view-sdk/main.js"></script>](https://documentcloud.adobe.com/view-sdk/main.js%22%3E%3C/script%3E) <script type="text/javascript"> document.addEventListener("adobe_dc_view_sdk.ready", function(){ var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"}); adobeDCView.previewFile({ content:{location: {url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:d1fd0632-ef3f-3521-8dd0-cc98e11ee486"}}, metaData:{fileName: "ISP-WS2223.pdf"} }, {embedMode: "IN_LINE"}); }); </script>
-
-{{< gdocs src="https://docs.google.com/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
-
-{{< gdocs src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
+<iframe src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
