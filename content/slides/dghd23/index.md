@@ -12,6 +12,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-{{< gdocs src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
 
-<iframe src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<script src="[https://documentcloud.adobe.com/view-sdk/main.js"></script>](https://documentcloud.adobe.com/view-sdk/main.js%22%3E%3C/script%3E) <script type="text/javascript"> document.addEventListener("adobe_dc_view_sdk.ready", function(){ var adobeDCView = new AdobeDC.View({clientId: "5b6be996ab824b0e8113830d11740fa3", divId: "adobe-dc-view"}); adobeDCView.previewFile({ content:{location: {url: "https://acrobat.adobe.com/link/review?uri=urn:aaid:scds:US:f1d78bce-31be-4dbf-9893-9d46927650d9"}}, metaData:{fileName: "DGHD23-Kalz.pdf"} }, {embedMode: "IN_LINE"}); }); </script>
+
+
