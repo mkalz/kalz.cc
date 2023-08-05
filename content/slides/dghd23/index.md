@@ -1,15 +1,36 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
-authors: []
-tags: []
-categories: []
-date: "2019-02-05T00:00:00Z"
-slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+# Page title
+title: Einleitung
+
+# Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
+# linktitle:
+
+# Page summary for search engines.
+summary: "Einleitung in das Buch'"
+
+# Date page published
+date: "2023-03-25"
+
+# Book page type (do not modify).
+type: post
+
+# TOC
+toc: false
+
+# Links (optional).
+#url_custom: = [{name = "PDF Download", url = "pdf/intro.pdf"}
+
+# Show a link to the next article in the series?
+pager: true
+
+# Show breadcrumb navigation?
+show_breadcrumb: true
+
+# Position of this page in the menu. Remove this option to sort alphabetically.
+weight: 1
+
+feedback: true
 ---
+
+
 {{< gdocs src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
