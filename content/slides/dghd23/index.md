@@ -29,4 +29,7 @@ weight: 1
 feedback: true
 ---
 
+
+{{< gdocs src="https://docs.google.com/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
+
 {{< gdocs src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
