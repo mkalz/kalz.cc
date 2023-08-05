@@ -12,5 +12,8 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+{{< gdocs src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" >}}
+
+https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing
 
 <iframe src="https://drive.google.com/file/d/13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ/view?usp=sharing" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
