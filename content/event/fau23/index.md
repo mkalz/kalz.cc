@@ -49,7 +49,7 @@ image:
 url_slides: 
 url_code:
 url_pdf:
-url_video: https://www.tele-task.de/lecture/video/7859/
+url_video:
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
