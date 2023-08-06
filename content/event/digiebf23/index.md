@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Data2Teach: Datenkompetenz für (angehende) Lehrer:innen"
+title: "Publizieren in EdTech Research"
 event: Metavorhaben Digitalisierung im Bildungsbereich
 event_url: https://digi-ebf.de/online-workshop-publizieren-edtech-research
 location: online
