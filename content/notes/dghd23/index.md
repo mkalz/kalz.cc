@@ -12,4 +12,3 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-{{< googlePdfReader "13YeRUwCRytJl6a6jAOY2iEwb6lUEQxZZ" "Title" >}}
