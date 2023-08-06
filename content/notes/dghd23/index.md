@@ -12,5 +12,3 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
-{{< embed-pdf url=""pdf/dghd_ZK-KI-Kalz23" >}}
