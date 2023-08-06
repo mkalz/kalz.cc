@@ -1,5 +1,5 @@
 ---
-title: Eckpunkte einer postdigitalen und partizipativen Lernkultur in Lehramtsausbildung und Unterricht
+title: Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse
 summary:
 authors: [-admin]
 tags: []
