@@ -1,0 +1,3 @@
+[submodule "content/course/mediamanipulation23"] 
+  path = content/course/mediamanipulation23 
+  url = git://github.com/mkalz/mediamanipulation23
