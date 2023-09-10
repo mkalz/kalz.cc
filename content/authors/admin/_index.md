@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Marco Kalz
+title: Marco Kalz
 
 # Is this the primary user of the site?
 superuser: true
