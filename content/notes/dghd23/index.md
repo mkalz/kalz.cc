@@ -12,3 +12,8 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+
+
+
+{{< googlePdfReader "1aiLSt2_qujU8cY35_0UNZr1zsegJCAWn" "Slides des Vortrags vom 19.09.2023" >}}
+
