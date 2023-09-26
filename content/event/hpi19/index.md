@@ -27,7 +27,7 @@ authors: []
 tags: [events, keynote, scale, scaling, educational scalability, feedback, peer-feedback]
 
 # Is this a featured event? (true/false)
-featured: true
+featured: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
