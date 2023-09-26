@@ -16,4 +16,3 @@ slides:
 
 
 {{< googlePdfReader "1IM0w9rONs6AAenl332Q_tXH-18ySbNTj" "Slides des Vortrags vom 26.09.2023" >}}
-
