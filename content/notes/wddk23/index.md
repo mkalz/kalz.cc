@@ -1,5 +1,5 @@
 ---
-title: Data2Teach: Entwicklung eines Online-Lernangebotes zur Datenkompetenz von Lehrer:innen 
+title: Data2Teach: Entwicklung eines Online-Lernangebotes zur Datenkompetenz von Lehrerinnen 
 summary:
 authors: [-admin]
 tags: []
