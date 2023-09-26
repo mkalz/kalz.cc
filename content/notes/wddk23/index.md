@@ -1,10 +1,10 @@
 ---
-title: Data2Teach: Entwicklung eines Online-Lernangebotes zur Datenkompetenz von Lehrerinnen 
+title: Data2Teach. Entwicklung eines Online-Lernangebotes zur Datenkompetenz von Lehrer:innen 
 summary:
 authors: [-admin]
 tags: []
 categories: []
-date: "2023-09-25T12:00:00Z"
+date: "2023-08-04T12:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
