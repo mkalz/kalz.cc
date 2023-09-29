@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "KI in der Hochschullehre: Vom stochastischen Papagei zum allwissenden Lernbegleiter?"
-event: "Tag der Lehre: Teaching Futures""
+event: "Tag der Lehre: Teaching Futures"
 event_url: 
 location: Marburg, Germany
 address:
