@@ -1,5 +1,5 @@
 ---
-title: KI in der Lehrerinnenbildung. Implkationen eines veränderten digitalen Ökosystems.
+title: KI in der Lehrerinnenbildung. Implikationen eines veränderten digitalen Ökosystems.
 summary:
 authors: [-admin]
 tags: []
