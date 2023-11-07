@@ -35,7 +35,7 @@ coordinates:
 directions: Enter building and take the stairs to the left to the third floor (Office A336)
 office_hours:
   - 'By appointment'
-appointment_url: 'https://fantastical.app/mkalz/booking'
+appointment_url: 'https://calendar.app.google/LPbUsyti9ESPsYgc9'
 contact_links:
   - icon: twitter
     icon_pack: fab
