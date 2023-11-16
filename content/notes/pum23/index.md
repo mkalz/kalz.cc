@@ -15,5 +15,4 @@ slides:
 
 
 
-{{< googlePdfReader "1jPESj7B-9iw2lxEXmsbGCAlpFFUK-Ie4" "Präsentation vom 16.11.2023" >}}
-
+{{< googlePdfReader "1l-1AO5y829cBg_8kTD6aJNB9tjuSseCT" "Präsentation vom 16.11.2023" >}}
