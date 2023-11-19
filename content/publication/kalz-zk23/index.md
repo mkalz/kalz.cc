@@ -4,17 +4,17 @@
 title: "Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen"
 authors:
 - admin
-date: 2023-06-03T16:33:18+02:00
-doi: "https://doi.org/10.35542/osf.io/qbaze"
+date: 2023-11-19T01:33:18+02:00
+doi: "https://doi.org/10.21240/mpaed/00/2023.11.19.X"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-06-28T16:33:18+02:00
+publishDate: 2023-11-19T01:33:18+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -26,7 +26,7 @@ abstract: "Das Konzept der Zukunftskompetenzen wird aktuell für Hochschulen als
 summary: ""
 
 tags: [future skills, zukunftskompetenz, 4K, criticism]
-categories: [preprint]
+categories: []
 featured: true
 
 # Custom links (optional).
@@ -69,5 +69,4 @@ projects: []
 slides: ""
 ---
 
-Kalz, M. (2023, June 3). Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen. https://doi.org/10.35542/osf.io/qbaze
-
+Kalz, M. (2023). Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen. MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung, 2023 (Occasional Papers), 332–352. https://doi.org/10.21240/mpaed/00/2023.11.19.X
