@@ -40,6 +40,6 @@ url_video: ""
 slides: ""
 ---
 
-**ENTER_EdTech: Entering the EdTech Entrepreneurship World (funded via the EU Health Programme by the European Commission), July 2022 – November 2023, Budget: 2.6 Mio EUR (167,830.78 EUR acquired for own institution)**
+**INTERACT EUROPE: Innovative collaboration for Inter-specialty cancer training across Europe(funded via the EU Health Programme by the European Commission), July 2022 – November 2023, Budget: 2.6 Mio EUR (170,826.80 EUR acquired for own institution)**
 
 INTERACT-EUROPE is an 18-month project (July 2022 - November 2023) co-funded by the EU under the EU4Health programme 2021-2027 as part of Europe’s Beating Cancer Plan. INTERACT-EUROPE brings together 33 partners from 17 countries aiming at developing a European inter-specialty cancer training programme involving all main oncology disciplines and professions, cancer centres and patient groups, based on relevant needs assessments.
