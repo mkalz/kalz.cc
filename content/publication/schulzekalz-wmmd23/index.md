@@ -5,7 +5,7 @@ title: "Mobiles Lernen im Zeitalter der Mobilität und Postdigitalität"
 authors:
 - admin
 date: 2023-12-13T16:33:18+02:00
-doi: "https://doi.org/10.1007/978-981-19-0351-9_3-1"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-12-23T16:33:18+02:00
