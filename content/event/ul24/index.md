@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse"
-event: Themenreihe "KI in der Hochschullehre" der Deutschen Gesellschaft für Hochschuldidaktik
+title: "What are Universities for? Ein kritischer Überblick zur Integration der Förderung überfachlicher Kompetenzen in Hochschulcurricula"
+event: Kick-off Veranstaltung zur Vorbereitung des 10. Tags der Lehre 2025. SKILLS FOR TOMORROW.
 event_url: 
 location: online
 address:
@@ -16,15 +16,15 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-09-19T12:30:00+02:00
-date_end: 2023-09-19T14:00:00+02:00
+date: 2024-01-24T13:15:00+02:00
+date_end: 2024-01-24T14:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2023-06-28T00:18:04+02:00
+publishDate: 2024-01-19T00:18:04+02:00
 
 authors: []
-tags: [events, invited talk, future skills, 4K]
+tags: [events, invited talk, future skills, 4K, schlüsselkompetenz, lerntransfer]
 
 # Is this a featured event? (true/false)
 featured: true
@@ -49,7 +49,7 @@ image:
 url_slides: 
 url_code:
 url_pdf:
-url_video: https://www.youtube.com/watch?v=uUIz1VV4Mqw
+url_video: 
 
 # Markdown Slides (optional).
 #   Associate this event with Markdown slides.
