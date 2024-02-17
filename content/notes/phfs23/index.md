@@ -2,7 +2,7 @@
 _build:
   render: always
   list: never
-title: Apatives Peer-Feedback in der Hochschullehre und Lehrerinnenbildung
+title: Adaptives Peer-Feedback in der Hochschullehre und Lehrerinnenbildung
 summary:
 authors: [-admin]
 tags: []
