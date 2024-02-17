@@ -1,7 +1,7 @@
 ---
-title: Notes
-cms_exclude: true
-visibility: hidden
+_build:
+  render: always
+  list: never
 # View.
 #   1 = List
 #   2 = Compact
