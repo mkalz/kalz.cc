@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: KI in der Lehrerinnenbildung. Implikationen eines veränderten digitalen Ökosystems.
 summary:
 authors: [-admin]

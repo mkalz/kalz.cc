@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: KI in der Hochschullehre. Vom stochastischen Papagei zum allwissenden Lernbegleiter?
 summary:
 authors: [-admin]

@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: Ai and teacher education. Implications of a changing digital environment.
 summary:
 authors: [-admin]

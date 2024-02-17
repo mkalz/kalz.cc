@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: Peer-Feedback. Brücke zu einer neuen Feedback- und Beurteilungskultur in der Hochschullehre?
 summary:
 authors: [-admin]

@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: Data2Teach. Entwicklung eines Online-Lernangebotes zur Datenkompetenz von Lehrer:innen 
 summary:
 authors: [-admin]

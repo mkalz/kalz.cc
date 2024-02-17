@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse
 summary:
 authors: [-admin]
