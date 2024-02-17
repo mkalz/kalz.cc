@@ -1,7 +1,7 @@
 ---
 _build:
   render: always
-  list: always
+  list: never
 title: Beyond future skills. Transfer and problem-solving as alternative futures for higher education.
 summary: Keynote at annual conference ICM and beyond 2024
 authors: [-admin]

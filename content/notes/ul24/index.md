@@ -1,4 +1,7 @@
 ---
+_build:
+  render: always
+  list: never
 title: What are Universities for? Ein kritischer Überblick zur Integration von überfachlichen Kompetenzen in Hochschulcurricula
 summary:
 authors: [-admin]
