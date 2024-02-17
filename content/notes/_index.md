@@ -1,6 +1,6 @@
 ---
 _build:
-  render: always
+  render: never
   list: never
 # View.
 #   1 = List
