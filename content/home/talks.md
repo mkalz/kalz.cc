@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 75
 
-title: 'Selected invited talks (recorded)'
+title: 'Recent and recorded talks'
 subtitle:
 
 content:
