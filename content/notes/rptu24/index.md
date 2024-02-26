@@ -7,7 +7,7 @@ summary: Invited presentation RPTU Kaiserlautern-Landau
 authors: [-admin]
 tags: [future skills, lerntransfer, ki, ai, kompetenz, wissen]
 categories: [keynote]
-date: "2024-02-27T13:45:00Z"
+date: "2024-02-26T13:45:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
