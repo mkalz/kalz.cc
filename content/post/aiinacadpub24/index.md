@@ -23,7 +23,7 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Some of my regular readers might remember that I have reported a case of AI-supported plagiarism in a book on learning analytics which has been published in German last year [https://kalz.cc/2023/09/15/ai-destroys-principles-of-authorship.-a-scary-case-from-educational-technology-publishing./](see original post here). One of our papers has been plagiarized by a team of authors who have published a [book in German on "Educational Data Mining and Learning Analytics"](https://link.springer.com/book/10.1007/978-3-658-39607-7). Here I report about what has happened since I have reported the case.
+Some of my regular readers might remember that I have reported a case of AI-supported plagiarism in a book on learning analytics which has been published in German last year [see original post here](https://kalz.cc/2023/09/15/ai-destroys-principles-of-authorship-a-scary-case-from-educational-technology-publishing./). One of our papers has been plagiarized by a team of authors who have published a [book in German on "Educational Data Mining and Learning Analytics"](https://link.springer.com/book/10.1007/978-3-658-39607-7). Here I report about what has happened since I have reported the case.
 
 First of all, I would like to publish the material which I have been using as a basis for my complaint against a. the authors, b. the publisher and c. Dublin City University as affiliated institution of the authors and d. peer researchers whose work has been potentially plagiarized.
 
