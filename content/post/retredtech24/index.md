@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Due to my current side-project of getting a (https://kalz.cc/2024/03/08/a-plagiarised-edtech-book-and-nobody-cares/) [plagiarised, AI-generated book retracted], I was curious to see how selected top-ranked journals in Educational Technology have been actively retracting articles. I have been using the (https://scholar.google.de/citations?view_op=top_venues&hl=de&vq=soc_educationaltechnology)[GoogleScholar ranking] and have focused on journals I would include in this list. Here is a table of my findings.
+Due to my current side-project of getting a [plagiarised, AI-generated book retracted](https://kalz.cc/2024/03/08/a-plagiarised-edtech-book-and-nobody-cares/), I was curious to see how selected top-ranked journals in Educational Technology have been actively retracting articles. I have been using the [GoogleScholar ranking](https://scholar.google.de/citations?view_op=top_venues&hl=de&vq=soc_educationaltechnology) and have focused on journals I would include in this list. Here is a table of my findings.
 
 | Journal  | Number of retractions | Reasons |
 | -------- | --------------------- | ------- |
@@ -50,4 +50,4 @@ Due to my current side-project of getting a (https://kalz.cc/2024/03/08/a-plagia
 
 What do these numbers tell us? Assuming a well-design process of peer-reviews, quality-assurance and editorial decision-making (which usually needs to be the basis for being incluced in this list) the amount of retractions is quite low if we take in to account the many years of existence and number of papers published in these journals. Of course, there is probably a percentage of papers which have not been idenfified and potentially, these number will be growing due the availability of AI-based writing support.
 
-A surprising finding is the amount of retracted papers of the journal (https://link.springer.com/journal/10639) (Education and Information Technologies), but there the lack of ethical approval documents seems to lead automatically to retraction. Furthermore, I was surprised to see that besides plagiarism, some papers have been for sale on marketplaces for academic papers.
+A surprising finding is the amount of retracted papers of the journal [Education and Information Technologies](https://link.springer.com/journal/10639), but there the lack of ethical approval documents seems to lead automatically to retraction. Furthermore, I was surprised to see that besides plagiarism, some papers have been for sale on marketplaces for academic papers.
