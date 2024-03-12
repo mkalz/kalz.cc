@@ -7,8 +7,8 @@ summary: ""
 authors: [admin]
 tags: [edtech, publishing, plagiarism, retraction]
 categories: [publication, reflection, analysis]
-date: 2024-05-12T04:23:30+02:00
-lastmod: 2024-05-12T04:23:30+02:00
+date: 2024-03-12T04:23:30+02:00
+lastmod: 2024-03-12T04:23:30+02:00
 featured: true
 draft: false
 
