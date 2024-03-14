@@ -2,7 +2,7 @@
 _build:
   render: always
   list: never
-title: Zukunft revisited. Alternative Komzepte zur Zukunftsorientierung in der Hochschullehre.
+title: Zukunft revisited. Alternative Konzepte zur Zukunftsorientierung in der Hochschullehre.
 summary:
 authors: [-admin]
 tags: [future skills, lerntransfer, analogien, probleme]
