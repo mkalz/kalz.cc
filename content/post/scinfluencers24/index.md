@@ -33,5 +33,5 @@ My conclusion is that higher education institutions need to recognize the danger
 
 
 #### References ####
-Weingart, P., & Guenther, L. (2016). Science communication and the issue of trust. "Journal of Science communication", 15(05), C01.
+Weingart, P., & Guenther, L. (2016). Science communication and the issue of trust. *Journal of Science communication*, 15(05), C01.
 
