@@ -49,4 +49,3 @@ design:
 <p><button type="submit">Submit</button></p>
 </form>
 <script src="https://sendfox.com/js/form.js"></script>
-			
