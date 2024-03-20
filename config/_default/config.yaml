@@ -26,9 +26,9 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
-    - path: github.com/mkalz/blox/github.mkalz.newsletter.html
+    - path: github.com/mkalz/blox/newsletter
 
-    
+
 ############################
 ## ADVANCED
 ############################
