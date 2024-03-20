@@ -10,7 +10,7 @@ headless: true
 weight: 20
 
 title: 'Subscribe to my newsletter'
-subtitle:
+subtitle: I am publishing a newsletter "The day´s refrain - musings on digital education" every 3 - 4 weeks. You can subscribe here.
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -39,7 +39,7 @@ design:
   #   4 = Citation (publication only)
   view: 1
 ---
-I am publishing a newsletter "The day´s refrain - musings on digital education" every 3 - 4 weeks. You can subscribe below.
+
 
 <form method="post" action="https://sendfox.com/form/1dr8zj/m2q2v6" class="sendfox-form" id="m2q2v6" data-async="true" data-recaptcha="true">
 <p><label for="sendfox_form_name">First Name: </label><input type="text" id="sendfox_form_name" placeholder="First Name" name="first_name" required /></p>
