@@ -28,7 +28,7 @@ summary: ""
 
 tags: [teacher training, TPACK, technology integration, educational technology, classroom technology]
 categories: [publications, journal articles, ISI-journals]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
