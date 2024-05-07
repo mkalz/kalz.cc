@@ -7,7 +7,7 @@ summary: Young researcher´s day Fernuni Hagen
 authors: [-admin]
 tags: [publishing, journals, conferences, EdTech]
 categories: [invited presentation]
-date: "2024-05-08T10:00:00Z"
+date: "2024-05-07T10:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
