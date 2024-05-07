@@ -18,5 +18,5 @@ slides:
 
 
 
-{{< googlePdfReader "11EUOmH37qQeYsz8NDbrkdM-1JvniLS2M" "Presentation slides 8.5.2024 >}}
+{{< googlePdfReader "11EUOmH37qQeYsz8NDbrkdM-1JvniLS2M" "Presentation slides 8.5.2024" >}}
 
