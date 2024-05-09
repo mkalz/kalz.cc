@@ -42,6 +42,6 @@ Warum ist das wichtig? Weil man die berichteten Kennzahlen für jede x-beliebige
 
 Apropos Abschlussbericht: Bei einer so hohen Fördersumme wäre in anderen Ländern eine externe Begutachtung unumgänglich gewesen, aber hier scheint es ja auszureichen, ein paar quantitative Zahlen im Sinne des allseits kritisierten MOOC-Reporting zu nennen (Anzahl Accounts, Abrufe) in Kombination mit einer Auflistung von Aktivitäten und einer sog. SWOT-Analyse auf Post-Its, um dann die technischen Entwicklungsleistungen in den Vordergrund zu stellen, die aber ja Ende 2024 zum Teil obsolet sind, wenn man auf Moodle umzieht.
 
-Ich will hier gar nicht die ursprüngliche Entwicklungsleistung schmälern und auch nicht die Geschwindigkeit, mit der der KI-Campus aufgebaut wurden. Und natürlich wurde über die Förderung zahlreiche Kurse entwickelt und es wurden viele weitere Initiativen gestartet. Trotzdem leisten wir uns eine nationale Lernplattform, die nach Jahren hoher Investitionen auf ein Standard-LMS wechselt und keinerlei Daten berichtet zu den Lerneffekten der Kurse.
+Ich will hier gar nicht die ursprüngliche Entwicklungsleistung schmälern und auch nicht die Geschwindigkeit, mit der der KI-Campus aufgebaut wurde. Und natürlich wurde über die Förderung zahlreiche Kurse entwickelt und es wurden viele weitere Initiativen gestartet. Trotzdem leisten wir uns eine nationale Lernplattform, die nach Jahren hoher Investitionen auf ein Standard-LMS wechselt und keinerlei Daten berichtet zu den Lerneffekten der Kurse.
 
 In Berlin würde man wohl sagen: Nachtigall ik hört Dir trapsen!
