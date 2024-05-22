@@ -1,7 +1,7 @@
 ---
 title: Retraction of a plagiarised edtech book. The final chapter.
 subtitle:
-date: 2024-05-22T06:36:59.875Z
+date: 2024-05-22T02:36:59.875Z
 authors:
   - admin
 draft: false
