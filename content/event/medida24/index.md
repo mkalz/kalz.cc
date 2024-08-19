@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Panel "Zur Bedeutung von Künstlicher Intelligenz für die Lerninhalte an Hochschulen"
-event: Learning AID 2024
-event_url: https://ki-edu-nrw.ruhr-uni-bochum.de/learning-aid-2024-wieder-renommierte-podiumsdiskutantinnen/
-location: Ruhr-Universität Bochum, Germany
+title: 1. AK Mediendidaktik
+event: EdTech Research Forum
+event_url: https://digi-ebf.de/etrf2024
+location: Universität Duisburg-Essen, Germany
 address:
   street:
   city:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-09-02T17:45:00+02:00
-date_end: 2024-09-02T18:30:00+02:00
+date: 2024-08-29T14:00:00+02:00
+date_end: 2024-08-30T13:00:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
