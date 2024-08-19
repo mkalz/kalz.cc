@@ -21,7 +21,7 @@ date_end: 2024-09-2T18:30:00+02:00
 all_day: false
 
 # Schedule page publish date (NOT event date).
-publishDate: 2024-01-19T00:18:04+02:00
+publishDate: 2024-08-19T00:18:04+02:00
 
 authors: []
 tags: [events, invited talk, future skills, AI skills]
