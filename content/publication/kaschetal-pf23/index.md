@@ -29,7 +29,7 @@ summary: ""
 
 tags: [peer-feedback orientation, peer-feedback, formative feedback, scalability]
 categories: [bookchapter, publications]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

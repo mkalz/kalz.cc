@@ -32,7 +32,7 @@ summary: ""
 
 tags: [feedback literacy; scaledevelopment; exploratory factor analysis; Rasch analysis; higher education]
 categories: [publications, journal articles, ISI-journals]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
