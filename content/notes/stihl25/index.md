@@ -7,7 +7,7 @@ summary:
 authors: [-admin]
 tags: [future skills, lerntransfer, analogien, probleme, akademische kompetenzen]
 categories: [keynote]
-date: "2025-02-04T08:00:00Z"
+date: "2025-02-03T08:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
