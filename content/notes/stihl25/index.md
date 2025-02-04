@@ -19,4 +19,3 @@ slides:
 
 
 {{< googlePdfReader "1uc02_SFxV21UwwQLp6paGe63J0fyhDSb" "Slides des Vortrags vom 04.02.2024" >}}
-
