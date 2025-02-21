@@ -31,7 +31,7 @@ summary: ""
 
 tags: [open educational resources, OER, open education, teacher education]
 categories: [publications, journal articles]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
