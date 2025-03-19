@@ -56,6 +56,6 @@ Zudem erscheint mir die Diskussion sehr janus-köpfig, wenn einerseits auch von 
 
 **Referenzen**
 
-Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. *Journal of Psychologists and Counsellors in Schools*, 34(3), 242-265. https://doi.org/10.1177/2055636524127
+Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. *Journal of Psychologists and Counsellors in Schools*, 34(3), 242-265. https://doi.org/10.1177/20556365241270394
 
 Böttger, T., & Zierer, K. (2024). To Ban or Not to Ban? A Rapid Review on the Impact of Smartphone Bans in Schools on Social Well-Being and Academic Performance. +Education Sciences+, 14(8), 906. https://doi.org/10.3390/educsci14080906 
