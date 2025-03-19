@@ -44,7 +44,7 @@ In diesem prä-registriertem Scoping Review einer Forschungsguppe verschiedener 
 
 <mark>"Community concerns are amplified by the media, creating moral panics about issues for which little-to-no evidence exists – and to which banning then becomes a seemingly necessary and politically popular response" (Campbell et al. 2024, p. 244).</mark>
 
-22 Studien wurden am Ende in das Review einbezogen, die in 12 verschiedenen Ländern durchgeführt wurden. In Bezug auf die methodische Qualität stellen die Autor:innen fest, dass es keine rigorosen Studien gibt wie z.B. randomisierte Kontrollstudien oder Vergleichen zwischen der Situation vor und nach der Einführung eines Smartphone-Verbots. Zudem werden Unterschiede der Samples diskutiert. Dabei haben sich einige Studien hautsächlich auf Schüler:innen mit niedrigerem sozio-öknomischen Status konzentriert, was zu einer Verzerrung der Effekte geführt haben könnte. Aus der Synthese dieser 22 Studien leiten die Autor:innen ab, dass es derzeit keine ausreichende Evidenz gibt für positive Effekte eines generellen Smartphone-Verbots auf Lernleistung, mentale Gesundheit und Wohlbefinden oder die Reduktion von Cyberbullying gibt.
+22 Studien wurden am Ende in das Review einbezogen, die in 12 verschiedenen Ländern durchgeführt wurden. In Bezug auf die methodische Qualität stellen die Autor:innen fest, dass es keine rigorosen Studien gibt wie z.B. randomisierte Kontrollstudien oder Vergleichen zwischen der Situation vor und nach der Einführung eines Smartphone-Verbots. Zudem werden Unterschiede der Samples diskutiert. Dabei haben sich einige Studien hautsächlich auf Schüler:innen mit niedrigerem sozio-öknomischen Status konzentriert, was zu einer Verzerrung der Effekte geführt haben könnte. Aus der Synthese dieser 22 Studien leiten die Autor:innen ab, dass es derzeit keine ausreichende Evidenz gibt für positive Effekte eines generellen Smartphone-Verbots auf Lernleistung, mentale Gesundheit und Wohlbefinden oder die Reduktion von Cyberbullying.
 
 **Diskussion und Fazit**
 
@@ -58,4 +58,4 @@ Zudem erscheint mir die Diskussion sehr janus-köpfig, wenn einerseits auch von 
 
 Campbell, M., Edwards, E. J., Pennell, D., Poed, S., Lister, V., Gillett-Swan, J., ... & Nguyen, T. A. (2024). Evidence for and against banning mobile phones in schools: A scoping review. *Journal of Psychologists and Counsellors in Schools*, 34(3), 242-265. https://doi.org/10.1177/2055636524127
 
-Böttger, T., & Zierer, K. (2024). To Ban or Not to Ban? A Rapid Review on the Impact of Smartphone Bans in Schools on Social Well-Being and Academic Performance. +Education Sciences+, 14(8), 906. https://doi.org/10.3390/educsci14080906
+Böttger, T., & Zierer, K. (2024). To Ban or Not to Ban? A Rapid Review on the Impact of Smartphone Bans in Schools on Social Well-Being and Academic Performance. +Education Sciences+, 14(8), 906. https://doi.org/10.3390/educsci14080906 
