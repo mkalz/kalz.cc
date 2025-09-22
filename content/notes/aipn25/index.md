@@ -2,12 +2,12 @@
 _build:
   render: always
   list: never
-title: Upskilling, deskilling and skillflation. A critical reflection on the AI skills discourse and the implications of (VET) education
+title: Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse
 summary:
 authors: [-admin]
-tags: [ai literacy, skill fetish, deskilling, skillflation]
-categories: [keynote]
-date: "2025-09-22T08:00:00Z"
+tags: []
+categories: []
+date: "2023-08-04T12:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -17,4 +17,6 @@ slides:
 ---
 
 
-{{< googlePdfReader "1cp0Li4zPxy8Ehh1wXrLSc2EZHtt-KqlQ" "Slides from AIPioneers Conference 22. September 2025" >}}
+
+{{< googlePdfReader "1aiLSt2_qujU8cY35_0UNZr1zsegJCAWn" "Slides des Vortrags vom 19.09.2023" >}}
+
