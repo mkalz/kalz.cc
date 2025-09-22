@@ -2,12 +2,12 @@
 _build:
   render: always
   list: never
-title: Zukunftskompetenzen und KI-Kompetenz – alter Wein in neuen Schläuchen? Eine kritische Analyse
+title: Zukunft revisited. Alternative Konzepte zur Zukunftsorientierung in der Hochschullehre.
 summary:
 authors: [-admin]
-tags: []
-categories: []
-date: "2023-08-04T12:00:00Z"
+tags: [future skills, lerntransfer, analogien, probleme]
+categories: [keynote]
+date: "2024-01-23T12:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -18,5 +18,5 @@ slides:
 
 
 
-{{< googlePdfReader "1aiLSt2_qujU8cY35_0UNZr1zsegJCAWn" "Slides des Vortrags vom 19.09.2023" >}}
+{{< googlePdfReader "17G-n_AfxAJ9t9_vFNpoo5i47Drr48FRn" "Slides des Vortrags vom 14.03.2024" >}}
 
