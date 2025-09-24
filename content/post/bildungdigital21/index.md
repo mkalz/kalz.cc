@@ -37,9 +37,7 @@ The German government has organized on the 22nd of February 2021 an online-event
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WAlP39a5LUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Visualizing the discourse
-{{< tweet 1363950810644766728 >}}
-To get a fast overview about the main topics of the discourse I have hacked together a short R-script to produce a tagcloud from the most used meaningful words in the discourse.
+
 
 ```R
 # We first install the Youtubecaption library
