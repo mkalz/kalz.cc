@@ -2,12 +2,12 @@
 _build:
   render: always
   list: never
-title: Zukunft revisited. Alternative Konzepte zur Zukunftsorientierung in der Hochschullehre.
+title: Upskilling, deskilling and skillflation. A critical reflection on the AI skills discourse and the implications of (VET) education
 summary:
 authors: [-admin]
-tags: [future skills, lerntransfer, analogien, probleme]
+tags: [ai literacy, skill fetish, deskilling, skillflation]
 categories: [keynote]
-date: "2024-01-23T12:00:00Z"
+date: "2025-09-22T08:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -17,6 +17,4 @@ slides:
 ---
 
 
-
-{{< googlePdfReader "17G-n_AfxAJ9t9_vFNpoo5i47Drr48FRn" "Slides des Vortrags vom 14.03.2024" >}}
-
+{{< googlePdfReader "1cp0Li4zPxy8Ehh1wXrLSc2EZHtt-KqlQ" "Slides from AIPioneers Conference 22. September 2025", Bremen, Germany >}}
