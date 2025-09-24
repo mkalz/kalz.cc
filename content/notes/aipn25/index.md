@@ -2,7 +2,7 @@
 _build:
   render: always
   list: never
-title: "Upskilling, deskilling and skillflation. A critical reflection on the AI skills discourse and the implications of (VET) education"
+title: "Upskilling, deskilling and skillflation. A critical reflection on the AI skills discourse and the implications for (VET) education"
 summary: ""
 authors: ["admin"]
 tags: ["ai literacy", "skill fetish", "deskilling", "skillflation"]
