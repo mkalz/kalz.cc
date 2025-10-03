@@ -1,33 +1,34 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures"
+title: "Identifying Critical Features for Formative Essay Feedback with Artificial Neural Networks and Backward Elimination"
 authors:
+- Mohsin Abbas
+- Peter van Rosmalen
 - admin
-- Marcus Specht
-date: 2014-05-01T11:02:28+02:00
-doi: "https://doi.org/10.1111/bjet.12092"
+date: 2019-12-03T11:02:28+02:00
+doi: "https://doi.org/10.1007/978-3-030-29736-7_30"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2014-12-03T11:02:28+02:00
+publishDate: 2019-12-03T11:02:28+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "British Journal of Educational Technology"
+publication: "Proceedings of ECTEL 2019"
 publication_short: ""
 
-abstract: "This paper deals with the assessment of the crossdisciplinarity of technology-enhanced learning (TEL). Based on a general discussion of the concept interdisciplinarity and a summary of the discussion in the field two empirical methods from scientometrics are introduced and applied. Science overlay maps and the Rao-Stirling-Diversity index are used to analyze the TEL field with a scientometric analysis. The science overlay maps show that a wide variety of disciplines contribute to research in the field. The analysis reveals that the field has been operating on a relatively high level of crossdisciplinarity in the last 10 years compared to 6 other fields of reference. Only in 2004 a decrease in the level of crossdisciplinarity could be identified."
+abstract: "For predicting and improving the quality of essays, text ana-lytic metrics (surface, syntactic, morphological and semantic features) can be used to provide formative feedback to the students. In this study, the intent was to find a small number of features that exhibit a fair proxy of the scores given by the human raters. Using an existing corpus and a text analysis tool for the Dutch language, a large number of fea-tures were extracted. Artificial neural networks, Levenberg Marquardt algorithm and backward elimination were used to reduce the number of extracted features automatically. Irrelevant features were eliminated based on the inter-rater agreement between predicted and human scores calculated using Cohen’s Kappa (κ). By using our algorithm, the num-ber of features in this study was reduced from 457 to 23. The selected features were grouped into six different categories. Of these categories, we believe that the features present in the groups “Word Difficulty” and “Lexical Diversity” are most useful for providing automated formative feedback to the students. The approach presented in this research paper is the first step towards our ultimate goal of providing meaningful for-mative feedback to the students for enhancing their writing skills and capabilities."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [interdisciplinarity, crossdisciplinarity, bibliometric study, diversity, science-overlay maps]
-categories: [publications, journal articles, ISI-journals]
+tags: [formative feedback, natural language processing, neural networks, backward elimination, feature selection, dimensionality reduction]
+categories: [publications, conference papers]
 featured: false
 
 # Custom links (optional).
@@ -60,7 +61,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [PhD-Mohsin-Abbas]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -70,4 +71,4 @@ projects: []
 slides: ""
 ---
 
-Kalz, M., & Specht, M. (2014). Assessing the crossdisciplinarity of technology-enhanced learning with science overlay maps and diversity measures. *British Journal of Educational Technology*. *45*(3), 415 – 427. https://doi.org/10.1111/bjet.12092
+Abbas, M., van Rosmalen, P., & Kalz, M. (2019). Identifying critical features for formative essay feedback with artificial neural networks and backward elimination. In Scheffel, M., Broisin, J., Pammer-Schindler, V., Ioannou, A., Schneider, J. (eds) *Transforming Learning with Meaningful Technologies. EC-TEL 2019.* (pp. 396-408). Lecture Notes in Computer Science, vol 11722. Springer, Cham. https://doi.org/10.1007/978-3-030-29736-7_30
