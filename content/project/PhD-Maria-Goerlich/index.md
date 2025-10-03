@@ -41,7 +41,7 @@ slides: ""
 ---
 Project title: Competencies of primary school teachers regarding the targeted support of students who are disadvantaged by the digital divide
 
-Institutiom: Heidelberg University of Education
+Institution: Heidelberg University of Education
 
 Local Supervision:
  - Prof. Dr. Barbara Getto (PH Zurich)
