@@ -40,6 +40,8 @@ url_video: ""
 slides: ""
 ---
 
-Title: "Automated formative feedback on essays using metrics, cues and visualization"
+Project title: "Automated formative feedback on essays using metrics, cues and visualization"
+
 Institution: Open University of the Netherlands
+
 Co-supervision by Dr. Peter van Rosmalen (Maastricht University)
