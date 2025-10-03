@@ -1,16 +1,16 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Intention-behavior dynamics in MOOCs Learning; What happens to good intentions along the way?"
+title: "Enjoyed or Bored? A Study into Achievement Emotions and the Association with Barriers to Learning in MOOCs"
 authors:
 - Maartje Henderikx
-- Karel Kreijns
+- Ansje Lohr
 - admin
-date: 2018-09-12T11:02:28+02:00
-doi: "https://doi.org/10.1109/LWMOOCS.2018.8534595"
+date: 2019-09-12T11:02:28+02:00
+doi: "https://doi.org/10.1007/978-3-030-29736-7_2"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2018-09-12T11:02:28+02:00
+publishDate: 2019-09-12T11:02:28+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,10 @@ publishDate: 2018-09-12T11:02:28+02:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Proceedings of Learning with Moocs 2018"
+publication: "Proceedings of ECTEL 2019"
 publication_short: ""
 
-abstract: "In this study, we introduce a model that captures and visualizes the dynamical process of individual intention forming and the translation of this intention into actual behavior when learning in MOOCs. To validate the model and further our understanding of learning in MOOCs, we constructed a short survey based on this theoretically grounded intention-behavior dynamics model. This survey was sent to MOOC learners who at the time of their respective MOOCs indicated that we could contact them for further research purposes. The combination of open and closed questions referred to the most recent MOOC they took and was answered by 84 learners. The results revealed that most learners start a MOOC with a specific intention in mind, but that nearly one third of these learners reformulates this initial intention, once or more often, at some point due to barriers they encounter which hinder or prevent them from reaching their individual intentions. These barriers are mainly non-MOOC related, which may be valuable input for future research as well as guide the development of interventions for supporting learners to reach their personal learning intentions."
+abstract: "MOOCs are accessible online personal development opportunities in which learners can expand their knowledge on many topics. Yet, the experience of barriers to learning often hinders learners from achieving their personal learning goals. Therefore, it is important to have insight into determinants that may influence the experience of (certain) barriers. This study investigated whether the emotional determinants enjoyment and boredom, which are known to impact learner achievement and motivation, affect the experience of (specific) barriers while learning in MOOCs. The results show that boredom did affect the experience of barriers related to technical and online related skills, social context and time, support and motivation, yet it did not affect the experience of barriers related to the design of the MOOC. Enjoyment was not correlated to any of the barriers. Furthermore, the same analysis comparing men to women again revealed that boredom did not significantly affect the experience of barriers related to the design of the MOOC, yet did significantly affect the experience of the other barriers. No, significant differences were found between males and females These findings may serve as input for supporting learners in achieving their individual learning goals."
 # Summary. An optional shortened abstract.
 summary: ""
 
