@@ -1,31 +1,31 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen"
+title: "Kompetenzorientierung"
 authors:
 - admin
-date: 2023-11-19T01:33:18+02:00
-doi: "https://doi.org/10.21240/mpaed/00/2023.11.19.X"
+date: 2025-09-09T01:33:18+02:00
+doi: "https://doi.org/10.5771/9783748943334-275"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-11-19T01:33:18+02:00
+publishDate: 2025-09-09T01:33:18+02:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
 
-abstract: "Das Konzept der Zukunftskompetenzen wird aktuell für Hochschulen als eine Option gesehen, um Studierende besser auf eine ungewisse Zukunft vorzubereiten und diese zu Problemlösern der Zukunft auszubilden. Dabei verwundert es, dass das Konzept den Eingang in die politische Förderaktivitäten gefunden hat, ohne dass eine evidenzbasierte Analyse und eine kritische Diskussion des Konzeptes stattgefunden hat. In diesem Beitrag wird die Diskussion in einen historischen Zusammenhang eingeordnet und es werden Verbindungen zu vergleichbaren Konzepten und Aktivitäten hergestellt. Auf Basis von systematischen Literaturanalysen und Evidenzsynthesen wird der aktuelle Forschungsstand zusammengefasst und 9 Problembereiche bei der Diskussion und Förderung von Zukunftskompetenzen identifiziert. Neben der fehlenden Einordnung der Zukunftskompetenzen in frühere Ansätze wurden vor allem die fehlenden empirischen Grundlagen sowie das Nicht- Vorhandensein von Messemethoden zur Analyse dieser Kompetenzen als kritisch für die Förderung von Lernangeboten für Zukunftskompetenzen identifiziert. Als alternative Forschungs- und Entwicklungsrichtung wird die Herausforderung des Transfers innerhalb und ausserhalb von Expertisefeldern diskutiert."
+abstract: "Der Begriff der Kompetenz stellt sich als ein multidimensionales und uneinheitliches Konzept für Hochschulen dar. Der Beitrag diskutiert die Kompetenzorientierung von Hochschu­len aus historischer Sicht und systematisiert den aktuellen Diskurs zu Kompetenzen für die Hochschulbildung auf Basis von akademischen Kompetenzen. Schließlich wird der Trend zur Formulierung von neuen Kompetenzanforderungen an Hochschulen kritisch beleuchtet."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [future skills, zukunftskompetenz, 4K, criticism]
+tags: [future skills, zukunftskompetenz, Kompetenz, Performanz, akademische Kompetenzen, überfachliche Kompetenzen]
 categories: []
 featured: true
 
@@ -69,4 +69,4 @@ projects: []
 slides: ""
 ---
 
-Kalz, M. (2023). Zurück in die Zukunft? Eine literaturbasierte Kritik der Zukunftskompetenzen. MedienPädagogik: Zeitschrift für Theorie Und Praxis Der Medienbildung, 2023 (Occasional Papers), 332–352. https://doi.org/10.21240/mpaed/00/2023.11.19.X
+Kalz, M. (2025). Kompetenzorientierung. In K., Pasternack, P., Reinmann, G., Schneijderberg, C. (Eds). *Handbuch Hochschulforschung. Forschung über Hochschule und Wissenschaft.* (pp.275-284) Baden-Baden, Nomos Verlag. https://doi.org/10.5771/9783748943334-275
