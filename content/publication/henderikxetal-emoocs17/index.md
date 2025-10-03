@@ -19,7 +19,7 @@ publishDate: 2017-09-12T11:02:28+02:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Distance Education"
+publication: "Proceedings of EMOOCS 2017"
 publication_short: ""
 
 abstract: "This explorative study aimed to get an understanding of MOOC-success as seen from the perspective of the MOOC-taker and the types of barriers which might stand in the way of this success. Data of two MOOCs was used to illustrate MOOC-success from two perspectives and barriers encountered. Fol-lowing the currently used approach to identify educational success, the success rate of MOOC-II was 5,6%. The success rates from the perspective of the MOOC-taker was 70%. In addition, data of MOOC-I and II showed that the en-countered barriers were mainly non-MOOC-related. Workplace issues and lack of time were most frequently indicated. For MOOC-designers’ decision making regarding redesign of a MOOC after evaluation, it is valuable to have insight in these matters to prevent unnecessary design interventions. "
