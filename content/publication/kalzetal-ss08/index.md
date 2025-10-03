@@ -4,9 +4,9 @@
 title: "Kompetenzentwicklung in der Wissensgesellschaft mit Social Software "
 authors:
 - admin
-- Ralf Klamm
+- Ralf Klamma
 - Marcus Specht
-date: 2025-05-30T01:33:18+02:00
+date: 2008-05-30T01:33:18+02:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
