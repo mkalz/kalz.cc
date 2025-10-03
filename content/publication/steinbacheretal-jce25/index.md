@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Technology-Enhanced Learning in the Education of Oncology Medical Professionals: A Systematic Literature Review."
+title: "Exploring the Current Use of Educational Technologies in the Oncology Domain Across Europe: A Cross-Sectional Study."
 authors:
-- Taibe Kulaksiz
 - Jana Steinbacher
+- Taibe Kulaksiz
 - admin
-date: 2023-06-28T21:22:31+01:00
-doi: "https://doi.org/10.1007/s13187-023-02329-1"
+date: 2025-08-29T21:22:31+01:00
+doi: "https://doi.org/10.1007/s13187-025-02703-1"
 
 # Author notes (optional)
 # author_notes:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-06-26T21:10:31+01:00
+publishDate: 2025-08-29T21:10:31+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,14 +25,14 @@ publication_types: ["2"]
 publication: "Journal of Cancer Education"
 publication_short: ""
 
-abstract: "As cancer continues to be a significant global health challenge, the education of oncology professionals plays a crucial role in providing quality cancer care and achieving optimal patient outcomes. In order to meet the growing need for flexible, accessible, and effective training, this study examines the role of technology-enhanced learning (TEL) in the education of oncology medical professionals. Following the PRISMA guidelines, this systematic review included 34 articles published between 2012 and 2022 in EBSCO and PubMed databases. Findings reveal a diverse range of digital tools being used in oncology training, despite a shortage of advanced educational technologies and limited functional improvement compared to traditional instruction. Since the training primarily targeted at multiple professions in the medical expert role, with radiation oncologists being overrepresented, other oncology domains should be examined more thoroughly in the future, taking into account distinct professional abilities, e.g. communication, collaboration, and leadership skills with reference to the CanMEDS framework. Although the training programmes generally resulted in positive outcomes according to the Kirkpatrick evaluation model, experimental research designs were rather limited. Therefore, the substantial contribution and limitations of TEL in oncology education need to be clarified. Precise reporting of digital tools and instructional processes, as well as challenges encountered, is highly recommended to increase transparency and replicability. Research methodology in digital oncology education remains a major concern and should be addressed accordingly in future research."
+abstract: "Considering the increasing relevance of digital education in cancer training, this study explores the current use of educational technologies in oncology across Europe. A cross-sectional study was conducted using convenience sampling to gather responses from learners and educators across Europe. Data was collected online via Lime Survey. Results indicate that both groups are most familiar with synchronous and blended learning, with less experience in asynchronous and hybrid formats. Live lectures were the most used tool, while virtual reality and simulations were less used. Regional differences reveal that Northern Europe prefers audio-based tools and e-books, while Central Europe demonstrates higher familiarity with asynchronous learning and interactive tools. Southern Europe has less experience with various modalities and tools. Professionally, cancer nurses reported more experience with asynchronous learning and learning management systems, while clinical oncologists demonstrated limited familiarity with various tools, particularly emerging technologies. For multi-disciplinary oncology training to succeed, practitioners need to align learning objectives with participants’ prior experiences and balance diverse target groups and implementation needs to address regional and professional disparities. Targeted efforts are needed to bridge gaps in digital infrastructure, accessibility, and institutional support. Explanatory studies are needed to confirm these findings."
 
 # Summary. An optional shortened abstract.
 summary: ""
 
 tags: [TEL, oncology, cancer education, medical education, Cancer care professionals, systematic review]
 categories: [publications, journal articles, ISI-journals]
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -74,4 +74,4 @@ projects: [INTERACT]
 slides: ""
 ---
 
-Kulaksız, T., Steinbacher, J. & Kalz, M. (2023). Technology-Enhanced Learning in the Education of Oncology Medical Professionals: A Systematic Literature Review. *Journal of Cancer Education*. https://doi.org/10.1007/s13187-023-02329-1
+Steinbacher, J., Kulaksız, T., & Kalz, M. (2025). Exploring the Current Use of Educational Technologies in the Oncology Domain Across Europe: A Cross-Sectional Study. *Journal of Cancer Education*, 1-8. https://doi.org/10.1007/s13187-025-02703-1
