@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Influence of Self-regulation, Self-efficacy and Motivation as Predictors of Barriers to Satisfaction in MOOCs"
+title: "Identifying Learning Activity Sequences that Are Associated with High Intention-Fulfillment in MOOCs"
 authors:
 - Eyal Rabin
-- Maartje Henderikx
+- Vered Silber-Varod
 - Yoram Kalman
 - admin
 date: 2019-09-09T11:02:28+02:00
-doi: "https://doi.org/10.1007/978-3-030-29736-7_55"
+doi: "https://doi.org/10.1007/978-3-030-29736-7_17"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-09T11:02:28+02:00
@@ -23,11 +23,11 @@ publication_types: ["2"]
 publication: "Proceedings of ECTEL 2019"
 publication_short: ""
 
-abstract: "This study focuses on identifying the barriers to satisfaction of MOOC participants, and the predictors of these barriers. Five hundred and forty-two English as a Second Language MOOC participants responded to pre- and post-questionnaires. Using exploratory factor analysis three kinds of barriers were identified, namely: ‘Lack of interestingness/relevance’, ‘Lack of time/bad plan-ning’ and ‘Lack of knowledge/technical problem’. The effects of the participant’s age, gender and level of self-efficacy, motivation, self-regulation learning skills and the intention to complete the course were analyzed as predictors of those barriers. Theoretical and practical implications regarding online learner satisfac-tion are discussed."
+abstract: "Learners join MOOCs (Massive Open Online Courses) with a variety of intentions. The fulfillment of these initial intentions is an important success criterion in self-paced and open courses. Using post course self-reported data enabled us to divide the participants to those who fulfilled the initial intentions (high-IF) and those who did not fulfill their initial intentions (low-IF). We used methods adapted from natural language processing (NLP) to analyze the learning paths of 462 MOOC participants and to identify activities and activity sequences of participants in the two groups. Specifically, we used n-gram analysis to identify learning activity sequences and keyness analysis to identify prominent learning activities. These measures enable us to identify the differences between the two groups. Differences can be seen at the level of single activities, but major differences were found when longer n-grams were used. The high-IF group showed more consistency and less divergent learning behavior. High-IF was associated, among other things, with study patterns of sequentially watching video lectures. Theoretical and practical suggestions are introduced in order to help MOOC developers and participants to fulfill the participants’ learning intentions."
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: [MOOCs, self-efficacy, self-regulated learning, barriers, motivation]
+tags: [MOOCs, Intention-fulfilment, n-gram, sequencing, learning paths]
 categories: [publications, conference papers]
 featured: false
 
@@ -71,4 +71,4 @@ projects: [PhD-Eyal-Rabin]
 slides: ""
 ---
 
-Rabin, E., Henderikx, M., Kalman, Y.M., Kalz, M. (2019). The Influence of Self-regulation, Self-efficacy and Motivation as Predictors of Barriers to Satisfaction in MOOCs. In Scheffel, M., Broisin, J., Pammer-Schindler, V., Ioannou, A., Schneider, J. (eds) *Transforming Learning with Meaningful Technologies.* (pp.631-635) EC-TEL 2019. Lecture Notes in Computer Science, vol 11722. Springer, Cham. https://doi.org/10.1007/978-3-030-29736-7_55
+Rabin, E., Silber-Varod, V., Kalman, Y.M., Kalz, M. (2019). Identifying Learning Activity Sequences that Are Associated with High Intention-Fulfillment in MOOCs. In Scheffel, M., Broisin, J., Pammer-Schindler, V., Ioannou, A., Schneider, J. (eds) *Transforming Learning with Meaningful Technologies.* (pp.224-235) EC-TEL 2019. Lecture Notes in Computer Science(), vol 11722. Springer, Cham. https://doi.org/10.1007/978-3-030-29736-7_17
