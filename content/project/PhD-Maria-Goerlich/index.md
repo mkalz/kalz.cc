@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Maria Goerlich"
-summary: "Development and validation of a test instrument to assess students' data literacy: analysis, modeling, and empirical testing"
+summary: "Competencies of primary school teachers regarding the targeted support of students who are disadvantaged by the digital divide"
 authors: [Maria Görlich]
 tags: [PhD]
 categories: []
@@ -43,4 +43,4 @@ Local Supervision:
  - Prof. Dr. Barbara Getto (PH Zurich)
  - Prof. Dr. Leonie Sibley (PH Zurich)
 
-The project is conducted in the context of the DEEP-project.
+The project is conducted in the context of the [DEEP-project](https://deep-consortium.ch/).
