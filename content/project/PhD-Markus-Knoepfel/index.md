@@ -40,3 +40,6 @@ url_video: ""
 slides: ""
 ---
 
+Project title: Design and Implementation of Problem-Based Learning as didactical extension in psychology teaching
+
+Co-supervision by Dr. Patrick Meyer (SRH/University of Heidelberg)

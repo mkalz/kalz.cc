@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Project title: "Automated formative feedback on essays using metrics, cues and visualization"
+Project title: Automated formative feedback on essays using metrics, cues and visualization
 
 Institution: Open University of the Netherlands
 

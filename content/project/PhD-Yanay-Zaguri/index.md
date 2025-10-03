@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "PhD Maria Goerlich"
-summary: "Competencies of primary school teachers regarding the targeted support of students who are disadvantaged by the digital divide"
-authors: [Maria Görlich]
+title: "PhD Yanay Zaguri"
+summary: "Perceived Value of Learning and Development Departments in Organizations"
+authors: [Yanay Zaguri]
 tags: [PhD]
 categories: []
-date: 2025-08-01T06:59:00+02:00
+date: 20203-08-19T13:58:28+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -39,12 +39,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Project title: Competencies of primary school teachers regarding the targeted support of students who are disadvantaged by the digital divide
 
-Institutiom: Heidelberg University of Education
+Project title: Perceived Value of Learning and Development Departments in Organizations
 
-Local Supervision:
- - Prof. Dr. Barbara Getto (PH Zurich)
- - Prof. Dr. Leonie Sibley (PH Zurich)
+Institution: Open University of the Netherlands
 
-The project is conducted in the context of the [DEEP-project](https://deep-consortium.ch/).
+Co-supervision by Dr. Gila Kurtz, Holon Institute of Technology
