@@ -42,4 +42,4 @@ slides: ""
 
 Project title: Academic conferences for continuing professional development and learning
 
-Institution: Heidelberg University of Education.
+Institution: Heidelberg University of Education.  
