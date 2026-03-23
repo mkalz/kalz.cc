@@ -27,7 +27,7 @@ summary: ""
 
 tags: [future skills, zukunftskompetenz, Kompetenz, Performanz, akademische Kompetenzen, überfachliche Kompetenzen]
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

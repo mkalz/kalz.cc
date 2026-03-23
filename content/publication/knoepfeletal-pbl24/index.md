@@ -29,7 +29,7 @@ summary: ""
 
 tags: [problem-based learning, reasoning, problem-solving ]
 categories: [publications, journal articles]
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
