@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Invited Keynote "Upskilling, deskliing and skillflation. A critical reflection on the AI skills discourse and the implications for (VET) education"
+title: Invited Keynote "Upskilling, deskilling and skillflation. A critical reflection on the AI skills discourse and the implications for (VET) education"
 event: AiPioneers Conference 2025
 event_url: https://aipioneers-fc.itb.uni-bremen.de
 location: Universität Bremen, Germany
