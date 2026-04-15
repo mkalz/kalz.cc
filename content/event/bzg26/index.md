@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Invited Keynote "Zukunft revisited. Alternative Ansätze zur Zukunftsorientierung in der Erwachsenenbildun"
+title: Invited Keynote "Zukunft revisited. Alternative Ansätze zur Zukunftsorientierung in der Erwachsenenbildung"
 event: Symposium Future Skills für die Pflege in einer Welt im Wandel. Welche Zukunftskompetenzen soll die Pflegeausbildung fördern?  
 event_url: https://www.akademie-im-park.de/fileadmin/user_upload/akademie-im-park/PDFe/BZG_Symposium_2026_v2.pdf
 location: Bildungszentrum Gesundheit, Wiesloch, Germany
