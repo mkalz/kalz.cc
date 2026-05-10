@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MARSS"
-summary: "MARSS: Multimodales System zur Abwehr von Desinformation für Schüler:innen"
+summary: "MARSS: Multimodales System zur Abwehr von Desinformation fÃ¼r SchÃ¼ler:innen"
 authors: []
 tags: [National project]
 categories: [disinformation, misinformation, deepfakes, pre-service teachers, teachers, OER]
