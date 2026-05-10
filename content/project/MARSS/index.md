@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "MARSS"
-summary: "MARSS: Multimodales System zur Abwehr von Desinformation für SchülerInnene"
+summary: "MARSS: Multimodales System zur Abwehr von Desinformation fÃ¼r SchÃ¼lerInnene"
 authors: []
 tags: [National project]
 categories: [disinformation, misinformation, deepfakes, pre-service teachers, teachers, OER]
@@ -45,4 +45,4 @@ Funded via a grant of the Federal Ministry of Research, Technology and Space. Ap
 
 ## Project Overview
 
-The “MARSS” project aims to enrich everyday school life through a digital solution that reliably and transparently detects disinformation and socio-emotional manipulation, provides young people with a sense of security, and strengthens their capacity for critical reflection. First, an AI-based tool will be developed to analyze multimodal media content and provide users with comprehensible feedback. Subsequently, this system will be integrated into a school-based learning platform that offers teachers practical materials and application examples. In parallel, a network of schools, research institutions, and civil society organizations will be established to support the development process through co-design methods and continuous evaluation.
+The Â“MARSSÂ” project aims to enrich everyday school life through a digital solution that reliably and transparently detects disinformation and socio-emotional manipulation, provides young people with a sense of security, and strengthens their capacity for critical reflection. First, an AI-based tool will be developed to analyze multimodal media content and provide users with comprehensible feedback. Subsequently, this system will be integrated into a school-based learning platform that offers teachers practical materials and application examples. In parallel, a network of schools, research institutions, and civil society organizations will be established to support the development process through co-design methods and continuous evaluation.
