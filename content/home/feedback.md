@@ -19,12 +19,3 @@ I welcome anonymous feedback on my research, teaching, leadership and collaborat
     Give anonymous feedback
   </a>
 </div>
-
-<br>
-
-<iframe
-  src="https://www.admonymous.co/mkalz"
-  width="100%"
-  height="850"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-</iframe>
