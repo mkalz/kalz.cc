@@ -39,9 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Project title: Design and Implementation of Problem-Based Learning as didactical extension in psychology teaching
-
-Institution: Heidelberg University of Education
-
-Co-supervision by Dr. Patrick Meyer (SRH/University of Heidelberg)
+- Title of the thesis: The world needs solutions. Students need problems.  [(thesis download)](https://doi.org/10.60497/opus-1780)
+- Defense date: 26. June 2026
+- Awarding institution: Heidelberg University of Education
+- Supervisors: Prof. Dr. Marco Kalz, Prof. Dr. Patric Meyer (SRH/University of Heidelberg)
+- Members of the assessment commmittee:
+  - Prof. dr. J. Weidlich, University of Zurich/Zurich University of Education
+  - Prof. dr. C. Rietz, Heidelberg University of Education
